@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moves_config>
+	<Node moves_id="1000"  moves_owner="1000" hit_value="25" release_lab="2,3,4,5" shak_world="15,0.1" target_pos_move="10"  target_y_move="0" avoid_lab="1" cost_mp="30" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp=""  desc="英雄重击"/>
+	<Node moves_id="1001"  moves_owner="1000"  hit_value="5" release_lab="9,10,11" shak_world="5,0.05" target_pos_move="10" target_y_move="10" avoid_lab="" cost_mp="" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp=""  desc="上挑"/>
+	<Node moves_id="1002"  moves_owner="1000"  hit_value="3"  release_lab="2,3,4" shak_world="5,0.05" target_pos_move="3" target_y_move="0" avoid_lab="" cost_mp="" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp=""  desc="反击"/>
+	<Node moves_id="1003"  moves_owner="1000"  hit_value="7"  release_lab="10,11,12" shak_world="3,0.05" target_pos_move="0" target_y_move="0" avoid_lab="2" cost_mp="" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp="" icone_name="land" desc="横向攻击"/>
+	<Node moves_id="1004"  moves_owner="1000"  hit_value="10"  release_lab="5,6,7" shak_world="5,0.08" target_pos_move="3" target_y_move="0" avoid_lab="2" cost_mp="" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp=""  desc="下劈"/>
+	<Node moves_id="1005"  moves_owner="1000"  hit_value="20"  release_lab="19,20,21" shak_world="5,0.05" target_pos_move="5" target_y_move="0" avoid_lab="15" cost_mp="" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp=""  desc="转身攻击"/>
+	<Node moves_id="1006"  moves_owner="1000"  hit_value="0"  release_lab="0,1" shak_world="" target_pos_move="" avoid_lab="5" target_y_move="0" cost_mp="" unconquerable_lab_min=""  unconquerable_lab_max="" add_hp=""  desc="重击预备式"/>
+	
+	<Node moves_id="2000"  moves_owner="2000"  hit_value="20"  release_lab="8,9,10" shak_world="3,0.05" target_pos_move="-10" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="0"  unconquerable_lab_max="" add_hp=""  desc="基础士兵普通攻击"/>
+	<Node moves_id="2001"  moves_owner="2000"  hit_value="25"  release_lab="22,23,24" shak_world="5,0.05" target_pos_move="-17" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="0"  unconquerable_lab_max="" add_hp=""  desc="基础士兵高级攻击"/>
+	
+	<Node moves_id="3000"  moves_owner="2001"  hit_value="50"  release_lab="28,29,30" shak_world="10,0.08" target_pos_move="-15" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="25"  unconquerable_lab_max="32" add_hp=""  desc="高大士兵攻击"/>
+	
+	<Node moves_id="4000"  moves_owner="4000"  hit_value="3"  release_lab="6,7,8" shak_world="" target_pos_move="2" target_y_move="0" avoid_lab=""  cost_mp="2" unconquerable_lab_min="5"  unconquerable_lab_max="" add_hp=""  desc="最终boss跑动结束攻击"/>
+	<Node moves_id="4001"  moves_owner="4000"  hit_value="5"  release_lab="4,5,6" shak_world="" target_pos_move="-5" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="4"  unconquerable_lab_max="7" add_hp=""  desc="最终boss连续攻击1（出左拳）"/>
+	<Node moves_id="4002"  moves_owner="4000"  hit_value="5"  release_lab="16,17,18" shak_world="" target_pos_move="-5" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="15"  unconquerable_lab_max="19" add_hp=""  desc="最终boss连续攻击2（出右拳）"/>
+	<Node moves_id="4003"  moves_owner="4000"  hit_value="5"  release_lab="26,27,28" shak_world="" target_pos_move="5" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="25"  unconquerable_lab_max="29" add_hp=""  desc="最终boss连续攻击3（踢腿）"/>
+	<Node moves_id="4004"  moves_owner="4000"  hit_value="8"  release_lab="39,40,41" shak_world="" target_pos_move="50" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="38"  unconquerable_lab_max="42" add_hp=""  desc="最终boss连续攻击4（踢腿接重拳）"/>
+	<Node moves_id="4006"  moves_owner="4000"  hit_value="0"  release_lab="7,8,9" shak_world="" target_pos_move="" target_y_move="0" avoid_lab=""  cost_mp="10" unconquerable_lab_min="3" unconquerable_lab_max="10" add_hp=""  desc="普通闪避"/>
+	<Node moves_id="4007"  moves_owner="4000"  hit_value="0"  release_lab="39,40,41" shak_world="" target_pos_move="" target_y_move="0" avoid_lab=""  cost_mp="15" unconquerable_lab_min="17"  unconquerable_lab_max="42" add_hp=""  desc="高级闪避"/>
+	<Node moves_id="4008"  moves_owner="4000"  hit_value="0"  release_lab="74,75,76" shak_world="" target_pos_move="" target_y_move="0" avoid_lab=""  cost_mp="20" unconquerable_lab_min="65"  unconquerable_lab_max="82" add_hp="10"  desc="回血"/>
+	
+	<Node moves_id="4009"  moves_owner="4000"  hit_value="0"  release_lab="8,9,10" shak_world="" target_pos_move="0" target_y_move="0" avoid_lab=""  cost_mp="5" unconquerable_lab_min="10"  unconquerable_lab_max="" add_hp=""  desc="大招准备"/>
+	<Node moves_id="4010"  moves_owner="4000"  hit_value="25"  release_lab="1,2,3" shak_world="10,0.05" target_pos_move="100" target_y_move="0" avoid_lab=""  cost_mp="5" unconquerable_lab_min="2"  unconquerable_lab_max="" add_hp=""  desc="大招攻击1"/>
+	<Node moves_id="4011"  moves_owner="4000"  hit_value="18"  release_lab="6,7,8" shak_world="5,0.05" target_pos_move="60" target_y_move="0" avoid_lab=""  cost_mp="3" unconquerable_lab_min="5"  unconquerable_lab_max="" add_hp=""  desc="大招攻击2"/>
+	<Node moves_id="4012"  moves_owner="4000"  hit_value="15"  release_lab="14,15,16" shak_world="5,0.05" target_pos_move="70" target_y_move="0" avoid_lab=""  cost_mp="2" unconquerable_lab_min="10"  unconquerable_lab_max="" add_hp=""  desc="大招攻击3"/>
+	<Node moves_id="4013"  moves_owner="4000"  hit_value="15"  release_lab="19,20,21" shak_world="5,0.05" target_pos_move="60" target_y_move="0" avoid_lab=""  cost_mp="2" unconquerable_lab_min="10"  unconquerable_lab_max="" add_hp=""  desc="大招攻击4"/>
+	<Node moves_id="4014"  moves_owner="4000"  hit_value="15"  release_lab="24,25,26" shak_world="5,0.05" target_pos_move="80" target_y_move="0" avoid_lab=""  cost_mp="2" unconquerable_lab_min="10"  unconquerable_lab_max="" add_hp=""  desc="大招攻击5"/>
+	<Node moves_id="4015"  moves_owner="4000"  hit_value="10"  release_lab="32,33,34" shak_world="5,0.05" target_pos_move="80" target_y_move="0" avoid_lab=""  cost_mp="2" unconquerable_lab_min="20"  unconquerable_lab_max="" add_hp=""  desc="大招攻击6"/>
+	<Node moves_id="4016"  moves_owner="4000"  hit_value="10"  release_lab="44,45,46" shak_world="5,0.05" target_pos_move="60" target_y_move="0" avoid_lab=""  cost_mp="2" unconquerable_lab_min="30"  unconquerable_lab_max="" add_hp=""  desc="大招攻击7"/>
+	
+	<Node moves_id="5000"  moves_owner="2002"  hit_value="7"  release_lab="5,6,7" shak_world="5,0.08" target_pos_move="0" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="0"  unconquerable_lab_max="" add_hp=""  desc="动物攻击"/>
+	
+	<Node moves_id="6000"  moves_owner="2003"  hit_value="10"  release_lab="9,10,11" shak_world="5,0.05" target_pos_move="-10" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="9"  unconquerable_lab_max="11" add_hp=""  desc="双刀士兵攻击1"/>
+	<Node moves_id="6001"  moves_owner="2003"  hit_value="10"  release_lab="14,15,16" shak_world="5,0.05" target_pos_move="-20" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="14"  unconquerable_lab_max="17" add_hp=""  desc="双刀士兵攻击2"/>
+	<Node moves_id="6002"  moves_owner="2003"  hit_value="15"  release_lab="27,28,29" shak_world="5,0.05" target_pos_move="-20" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="25"  unconquerable_lab_max="28" add_hp=""  desc="双刀士兵攻击2"/>
+	<Node moves_id="6003"  moves_owner="2003"  hit_value="15"  release_lab="38,39,40" shak_world="5,0.05" target_pos_move="-20" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="37"  unconquerable_lab_max="43" add_hp=""  desc="双刀士兵攻击2"/>
+	<Node moves_id="6004"  moves_owner="2003"  hit_value="50"  release_lab="72,73,74" shak_world="-10,0.05" target_pos_move="-130" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="70"  unconquerable_lab_max="77" add_hp=""  desc="双刀士兵攻击2"/>
+	
+	
+	<Node moves_id="7000"  moves_owner="5000"  hit_value="15"  release_lab="29,30,31" shak_world="5,0.02" target_pos_move="25" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="20"  unconquerable_lab_max="35" add_hp=""  desc="怪物攻击1"/>
+	<Node moves_id="7001"  moves_owner="5000"  hit_value="25"  release_lab="43,44,45" shak_world="5,0.03" target_pos_move="70" target_y_move="0" avoid_lab=""  cost_mp="" unconquerable_lab_min="35"  unconquerable_lab_max="55" add_hp=""  desc="怪物攻击2"/>
+	<Node moves_id="7002"  moves_owner="5000"  hit_value="0"  release_lab="20,21,22" shak_world="10,5" target_pos_move="0" target_y_move="0" avoid_lab=""  cost_mp="15" unconquerable_lab_min="20"  unconquerable_lab_max="75" add_hp="5"  desc="怪物吼叫回血"/>
+</moves_config>

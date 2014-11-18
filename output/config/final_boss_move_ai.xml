@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<final_boss_move_ai>
+	<Node  boss_mp="0_40" boss_hp="0_30" hero_hp="0_40" avoid="0.7" add_hp="0.8" desc=""/>	
+	<Node  boss_mp="0_40" boss_hp="0_30" hero_hp="40_70" avoid="0.7" add_hp="0.8" desc=""/>	
+	<Node  boss_mp="0_40" boss_hp="0_30" hero_hp="70_100" avoid="0.9" add_hp="0.9" desc=""/>	
+	
+	
+	<Node  boss_mp="0_40" boss_hp="30_60" hero_hp="0_40" avoid="0.2" add_hp="0.2" desc=""/>	
+	<Node  boss_mp="0_40" boss_hp="30_60" hero_hp="40_70" avoid="0.3" add_hp="0.2" desc=""/>	
+	<Node  boss_mp="0_40" boss_hp="30_60" hero_hp="70_100" avoid="0.4" add_hp="0.2" desc=""/>		
+	
+	<Node  boss_mp="0_40" boss_hp="60_100" hero_hp="0_40" avoid="0.8" add_hp="0.6" desc=""/>	
+	<Node  boss_mp="0_40" boss_hp="60_100" hero_hp="40_70" avoid="0.8" add_hp="0.5" desc=""/>	
+	<Node  boss_mp="0_40" boss_hp="60_100" hero_hp="70_100" avoid="0.8" add_hp="0.4" desc=""/>	
+	
+	
+	<Node  boss_mp="40_60" boss_hp="0_30" hero_hp="0_40" avoid="0.8" add_hp="0.6" desc=""/>	
+	<Node  boss_mp="40_60" boss_hp="0_30" hero_hp="40_70" avoid="0.8" add_hp="0.6" desc=""/>	
+	<Node  boss_mp="40_60" boss_hp="0_30" hero_hp="70_100" avoid="0.8" add_hp="0.6" desc=""/>	
+	
+	
+	<Node  boss_mp="40_60" boss_hp="30_60" hero_hp="0_40" avoid="0.5" add_hp="0.3" desc=""/>	
+	<Node  boss_mp="40_60" boss_hp="30_60" hero_hp="40_70" avoid="0.6" add_hp="0.3" desc=""/>	
+	<Node  boss_mp="40_60" boss_hp="30_60" hero_hp="70_100" avoid="0.8" add_hp="0.2" desc=""/>	
+	
+	
+	<Node  boss_mp="40_60" boss_hp="60_100" hero_hp="0_40" avoid="0.2" add_hp="0.2" desc=""/>	
+	<Node  boss_mp="40_60" boss_hp="60_100" hero_hp="40_70" avoid="0.1" add_hp="0.1" desc=""/>	
+	<Node  boss_mp="40_60" boss_hp="60_100" hero_hp="70_100" avoid="0.2" add_hp="0.1" desc=""/>	
+	
+	
+	<Node  boss_mp="60_100" boss_hp="0_30" hero_hp="0_40" avoid="0.9" add_hp="0.8" desc=""/>	
+	<Node  boss_mp="60_100" boss_hp="0_30" hero_hp="40_70" avoid="0.9" add_hp="0.8" desc=""/>	
+	<Node  boss_mp="60_100" boss_hp="0_30" hero_hp="70_100" avoid="0.9" add_hp="0.8" desc=""/>	
+	
+	<Node  boss_mp="60_100" boss_hp="30_60" hero_hp="0_40" avoid="0.4" add_hp="0.4" desc=""/>	
+	<Node  boss_mp="60_100" boss_hp="30_60" hero_hp="40_70" avoid="0.5" add_hp="0.3" desc=""/>	
+	<Node  boss_mp="60_100" boss_hp="30_60" hero_hp="70_100" avoid="0.6" add_hp="0.2" desc=""/>	
+	
+	<Node  boss_mp="60_100" boss_hp="60_100" hero_hp="0_40" avoid="0.03" add_hp="0.1" desc=""/>	
+	<Node  boss_mp="60_100" boss_hp="60_100" hero_hp="40_70" avoid="0.05" add_hp="0.1" desc=""/>	
+	<Node  boss_mp="60_100" boss_hp="60_100" hero_hp="70_100" avoid="0.1" add_hp="0.1" desc=""/>	
+	
+</final_boss_move_ai>

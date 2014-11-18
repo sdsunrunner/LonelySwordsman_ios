@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e0c0a7c97fe348accc3fec20e1e510b3$ -->
+<TextureAtlas imagePath="bg_mountain.png">
+    <SubTexture name="medium_mountain_left" x="0" y="216" width="1024" height="216"/>
+    <SubTexture name="medium_mountain_right" x="0" y="0" width="1024" height="216"/>
+    <SubTexture name="vista_mountaion_left" x="0" y="632" width="1024" height="200"/>
+    <SubTexture name="vista_mountaion_right" x="0" y="432" width="1024" height="200"/>
+</TextureAtlas>

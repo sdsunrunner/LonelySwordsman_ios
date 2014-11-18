@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_level_config>
+	<Node lev_id="103" desc="scence_3.tmx" ladder_param="70,400,680" ladder_move_range="500" trap_platform_img_height="" trap_platform_img_width="0" imageX="" imageY="" smokeAnimaX="" smokeAnimaY=""/>
+	<Node lev_id="106" desc="scence_6.tmx" ladder_param="60,80,900" ladder_move_range="550" trap_platform_img_height=""  trap_platform_img_width="0" imageX="" imageY="" smokeAnimaX="" smokeAnimaY=""/>
+	<Node lev_id="109" desc="scence_9.tmx" ladder_param="" ladder_move_range="700" trap_platform_img_height="30"  trap_platform_img_width="900" imageX="-300" imageY="2" smokeAnimaX="0" smokeAnimaY="-300"/>
+	<Node lev_id="110" desc="scence_10.tmx" ladder_param="70,530,1022" ladder_move_range="700" trap_platform_img_height=""  trap_platform_img_width="" imageX="" imageY="" smokeAnimaX="" smokeAnimaY=""/>
+	<Node lev_id="111" desc="scence_11.tmx" ladder_param="" ladder_move_range="" trap_platform_img_height="30"  trap_platform_img_width="250" imageX="" imageY="-3" smokeAnimaX="0" smokeAnimaY="-300"/>
+</game_level_config>

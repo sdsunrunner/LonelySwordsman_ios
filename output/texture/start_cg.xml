@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ef6f9f18c7975b50444e04db0bfc7b6a$ -->
+<TextureAtlas imagePath="start_cg.png">
+    <SubTexture name="bgSoldier1" x="222" y="120" width="53" height="82"/>
+    <SubTexture name="bgSoldier2" x="312" y="962" width="37" height="56"/>
+    <SubTexture name="bossIdel" x="589" y="82" width="25" height="78"/>
+    <SubTexture name="bossKill0001" x="516" y="325" width="28" height="78" frameX="-10" frameY="-68" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0002" x="516" y="325" width="28" height="78" frameX="-10" frameY="-68" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0003" x="516" y="325" width="28" height="78" frameX="-10" frameY="-68" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0004" x="58" y="878" width="36" height="100" frameX="-11" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0005" x="166" y="442" width="36" height="100" frameX="-12" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0006" x="128" y="442" width="36" height="100" frameX="-12" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0007" x="186" y="346" width="68" height="86" frameX="-13" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0008" x="186" y="258" width="68" height="86" frameX="-13" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0009" x="366" y="776" width="68" height="86" frameX="-13" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0010" x="494" y="165" width="92" height="78" frameX="-12" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0011" x="582" y="650" width="92" height="78" frameX="-12" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0012" x="548" y="570" width="92" height="78" frameX="-12" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0013" x="492" y="410" width="96" height="78" frameX="-9" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0014" x="502" y="490" width="94" height="78" frameX="-10" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0015" x="362" y="166" width="98" height="80" frameX="-6" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0016" x="358" y="286" width="100" height="80" frameX="-4" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0017" x="312" y="368" width="100" height="80" frameX="-5" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0018" x="256" y="286" width="100" height="80" frameX="-5" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0019" x="374" y="2" width="100" height="80" frameX="-5" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0020" x="277" y="84" width="100" height="80" frameX="-6" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0021" x="256" y="204" width="104" height="80" frameX="-4" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0022" x="438" y="936" width="104" height="80" frameX="-4" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0023" x="438" y="854" width="104" height="80" frameX="-4" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0024" x="268" y="2" width="104" height="80" frameX="-4" frameY="-66" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0025" x="538" y="765" width="102" height="78" frameX="-4" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0026" x="476" y="685" width="104" height="78" frameX="-3" frameY="-67" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0027" x="280" y="518" width="106" height="82" frameX="-2" frameY="-64" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0028" x="204" y="434" width="106" height="82" frameX="-2" frameY="-64" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0029" x="372" y="686" width="102" height="82" frameX="-3" frameY="-64" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0030" x="436" y="770" width="100" height="82" frameX="-3" frameY="-64" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0031" x="368" y="602" width="102" height="82" frameX="0" frameY="-64" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0032" x="334" y="866" width="102" height="86" frameX="0" frameY="-60" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0033" x="232" y="870" width="100" height="90" frameX="0" frameY="-56" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0034" x="52" y="782" width="98" height="94" frameX="0" frameY="-52" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0035" x="52" y="678" width="100" height="102" frameX="0" frameY="-44" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0036" x="174" y="2" width="92" height="116" frameX="0" frameY="-30" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0037" x="130" y="136" width="90" height="120" frameX="-1" frameY="-26" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0038" x="100" y="282" width="84" height="126" frameX="-2" frameY="-20" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0039" x="52" y="442" width="74" height="128" frameX="-5" frameY="-18" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0040" x="102" y="2" width="70" height="132" frameX="-5" frameY="-14" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0041" x="58" y="148" width="70" height="132" frameX="-6" frameY="-14" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0042" x="2" y="880" width="54" height="142" frameX="-5" frameY="-4" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0043" x="2" y="150" width="54" height="144" frameX="-4" frameY="-2" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0044" x="50" y="2" width="50" height="144" frameX="-4" frameY="-1" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0045" x="52" y="296" width="46" height="144" frameX="-5" frameY="-1" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0046" x="2" y="2" width="46" height="146" frameX="-5" frameY="0" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0047" x="2" y="734" width="48" height="144" frameX="-5" frameY="-2" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0048" x="2" y="588" width="48" height="144" frameX="-4" frameY="-2" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0049" x="2" y="442" width="48" height="144" frameX="-4" frameY="-2" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossKill0050" x="2" y="296" width="48" height="144" frameX="-5" frameY="-2" frameWidth="108" frameHeight="166"/>
+    <SubTexture name="bossStartWalk0001" x="588" y="163" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0002" x="588" y="163" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0003" x="588" y="163" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0004" x="588" y="163" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0005" x="583" y="245" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0006" x="575" y="325" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0007" x="554" y="245" width="27" height="78" frameX="-1" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0008" x="546" y="325" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0009" x="546" y="325" width="27" height="78" frameX="0" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0010" x="525" y="245" width="27" height="78" frameX="-1" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0011" x="525" y="245" width="27" height="78" frameX="-1" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0012" x="525" y="245" width="27" height="78" frameX="-1" frameY="0" frameWidth="29" frameHeight="78"/>
+    <SubTexture name="bossStartWalk0013" x="494" y="245" width="29" height="78"/>
+    <SubTexture name="bossStartWalk0014" x="570" y="2" width="29" height="78"/>
+    <SubTexture name="bossStartWalk0015" x="539" y="2" width="29" height="78"/>
+    <SubTexture name="bossStartWalk0016" x="508" y="2" width="29" height="78"/>
+    <SubTexture name="bossStartWalk0017" x="508" y="2" width="29" height="78"/>
+    <SubTexture name="bossWalk0001" x="460" y="449" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0002" x="472" y="530" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0003" x="472" y="530" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0004" x="472" y="530" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0005" x="472" y="530" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0006" x="476" y="2" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0007" x="476" y="2" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0008" x="476" y="2" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0009" x="476" y="2" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0010" x="473" y="84" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0011" x="473" y="84" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0012" x="473" y="84" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0013" x="473" y="84" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0014" x="450" y="368" width="34" height="79"/>
+    <SubTexture name="bossWalk0015" x="450" y="368" width="34" height="79"/>
+    <SubTexture name="bossWalk0016" x="424" y="449" width="34" height="79"/>
+    <SubTexture name="bossWalk0017" x="424" y="449" width="34" height="79"/>
+    <SubTexture name="bossWalk0018" x="424" y="449" width="34" height="79"/>
+    <SubTexture name="bossWalk0019" x="414" y="368" width="34" height="79"/>
+    <SubTexture name="bossWalk0020" x="414" y="368" width="34" height="79"/>
+    <SubTexture name="bossWalk0021" x="414" y="368" width="34" height="79"/>
+    <SubTexture name="bossWalk0022" x="414" y="368" width="34" height="79"/>
+    <SubTexture name="bossWalk0023" x="388" y="450" width="34" height="79"/>
+    <SubTexture name="bossWalk0024" x="388" y="450" width="34" height="79"/>
+    <SubTexture name="bossWalk0025" x="388" y="450" width="34" height="79"/>
+    <SubTexture name="bossWalk0026" x="388" y="450" width="34" height="79"/>
+    <SubTexture name="bossWalk0027" x="388" y="450" width="34" height="79"/>
+    <SubTexture name="bossWalk0028" x="460" y="248" width="32" height="79" frameX="-2" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0029" x="460" y="248" width="32" height="79" frameX="-2" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0030" x="460" y="248" width="32" height="79" frameX="-2" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0031" x="601" y="2" width="32" height="77" frameX="-2" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0032" x="601" y="2" width="32" height="77" frameX="-2" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0033" x="601" y="2" width="32" height="77" frameX="-2" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0034" x="601" y="2" width="32" height="77" frameX="-2" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0035" x="616" y="81" width="30" height="77" frameX="-3" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0036" x="616" y="81" width="30" height="77" frameX="-3" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0037" x="616" y="81" width="30" height="77" frameX="-3" frameY="-1" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0038" x="462" y="166" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0039" x="462" y="166" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0040" x="462" y="166" width="30" height="79" frameX="-3" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0041" x="486" y="329" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0042" x="486" y="329" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0043" x="486" y="329" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0044" x="486" y="329" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0045" x="486" y="329" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="bossWalk0046" x="486" y="329" width="28" height="79" frameX="-4" frameY="0" frameWidth="34" frameHeight="79"/>
+    <SubTexture name="fiveYears" x="220" y="978" width="90" height="33"/>
+    <SubTexture name="yeoman0001" x="351" y="954" width="30" height="66" frameX="0" frameY="-30" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0002" x="635" y="2" width="52" height="76" frameX="-3" frameY="-27" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0003" x="298" y="776" width="66" height="88" frameX="0" frameY="-17" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0004" x="208" y="670" width="68" height="90" frameX="-12" frameY="-14" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0005" x="152" y="782" width="48" height="94" frameX="-43" frameY="-10" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0006" x="154" y="676" width="52" height="98" frameX="-48" frameY="-7" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0007" x="176" y="878" width="54" height="98" frameX="-55" frameY="-6" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0008" x="120" y="572" width="60" height="102" frameX="-56" frameY="-2" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0009" x="52" y="572" width="66" height="104" frameX="-56" frameY="0" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0010" x="96" y="878" width="78" height="98" frameX="-56" frameY="-1" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0011" x="278" y="636" width="88" height="88" frameX="-56" frameY="-6" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0012" x="202" y="776" width="94" height="92" frameX="-60" frameY="-6" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0013" x="182" y="544" width="96" height="90" frameX="-76" frameY="-14" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0014" x="379" y="84" width="92" height="80" frameX="-94" frameY="-23" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0015" x="379" y="84" width="92" height="80" frameX="-94" frameY="-23" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0016" x="505" y="83" width="82" height="78" frameX="-105" frameY="-26" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0017" x="505" y="83" width="82" height="78" frameX="-105" frameY="-26" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0018" x="472" y="611" width="74" height="72" frameX="-118" frameY="-31" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0019" x="472" y="611" width="74" height="72" frameX="-118" frameY="-31" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0020" x="278" y="726" width="92" height="48" frameX="-125" frameY="-55" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0021" x="278" y="726" width="92" height="48" frameX="-125" frameY="-55" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0022" x="140" y="978" width="78" height="44" frameX="-135" frameY="-66" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0023" x="140" y="978" width="78" height="44" frameX="-135" frameY="-66" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0024" x="58" y="980" width="80" height="34" frameX="-137" frameY="-71" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0025" x="182" y="636" width="78" height="32" frameX="-142" frameY="-73" frameWidth="220" frameHeight="110"/>
+    <SubTexture name="yeoman0026" x="100" y="410" width="78" height="30" frameX="-142" frameY="-75" frameWidth="220" frameHeight="110"/>
+</TextureAtlas>

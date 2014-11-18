@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="152" height="38" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="152" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztmoGqgzAMAMvcG+z/f/ghKBSxNu2atknvIEyG1docUbOFADPwcRowB6M9wC/fjPYAv3xTm7vR/uCXDa55eR3fv45I5W6LPiX5Po8bom3pWPyyS8qBk6tj280+IaRdOY8hOT9++WPP/e7GO7OPhNg96RjJ+fELNKGugSb4BZrglx3+gt4ztYUAPVZ3C7/0yLmV6jtoo9kDw68+SOrWSPDLLhK3pL2qHnPBLzs85TP+HWj0XPDLHk/5nGku+DXX+nhd49ZYuXZvbvW6H47Ggl+/3GO+D2NLItc3oHbdM/v15+qWhFrH3kdIelLSmnXGKszsV8t+UY1jJVCz7umxFprPTiWUOFZaYyR1a0W0/dJ+Li9F4liNCy2P5QlNv3q889WQc6yGHvcBi2itS69+Qi0px2qhdt2j4VfPXhXMTeu8tXJri+LKqP+wQDkt/frFrdgl/PFDK79K3dpJ1Sfww1P+Z+lbgV1S+Z+tbwU20XQoFby3r8MIv2Ad8As0wS/QBL9AE9wCTf4B3XohvA==
+  </data>
+ </layer>
+ <objectgroup name="platform" width="152" height="38">
+  <object type="citrus.objects.platformer.nape.Platform" x="194" y="958">
+   <polygon points="-30,4 381,1 381,64 -31,69"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1201" y="551">
+   <polygon points="209,-7 1614,-6 1614,22 208,25"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1886" y="256">
+   <polygon points="1154,65 929,291 1146,291"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2888" y="320">
+   <polygon points="154,-1 1594,-2 1594,36 154,32"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="960" y="697">
+   <polygon points="-127,8 289,8 289,36 -127,36"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="266" y="326">
+   <polygon points="11,249 41,251 42,634 13,634"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="260" y="476">
+   <polygon points="1151,68 988,231 1144,231"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="4435" y="-137">
+   <polygon points="11,249 41,251 41,456 12,456"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="-321" y="640">
+   <polygon points="1154,65 897,320 1146,291"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="obj" width="152" height="38">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="456" y="888" width="48" height="70"/>
+  <object name="endFlag" type="game.view.gameScenceView.scenceSensor.ScenceEndSensor" x="4385" y="246" width="48" height="67"/>
+  <object name="TwoKnivesSoldierEnemyB" type="game.view.enemySoldiers.twoKnives.TwoKnivesSoldierEnemy" x="1728" y="484" width="19" height="55">
+   <properties>
+    <property name="leftBound" value="1600"/>
+    <property name="rightBound" value="2000"/>
+   </properties>
+  </object>
+  <object name="TallSoldierEnemyA1" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="1069" y="628" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="896"/>
+    <property name="rightBound" value="1180"/>
+   </properties>
+  </object>
+  <object name="TwoKnivesSoldierEnemyD" type="game.view.enemySoldiers.twoKnives.TwoKnivesSoldierEnemy" x="4017" y="263" width="19" height="51">
+   <properties>
+    <property name="leftBound" value="3690"/>
+    <property name="rightBound" value="4200"/>
+   </properties>
+  </object>
+  <object name="TwoKnivesSoldierEnemyC" type="game.view.enemySoldiers.twoKnives.TwoKnivesSoldierEnemy" x="3484" y="263" width="19" height="55">
+   <properties>
+    <property name="leftBound" value="3100"/>
+    <property name="rightBound" value="3680"/>
+   </properties>
+  </object>
+  <object name="TwoKnivesSoldierEnemyB" type="game.view.enemySoldiers.twoKnives.TwoKnivesSoldierEnemy" x="2474" y="487" width="19" height="55">
+   <properties>
+    <property name="leftBound" value="2090"/>
+    <property name="rightBound" value="2700"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

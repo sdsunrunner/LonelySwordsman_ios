@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_sound_config>
+	<Node id="1"   load_type="welcome_scence"  file_name="sounds/sound177.mp3" desc="欢迎场景"/>
+	<Node id="100"   load_type="scence_bg"  file_name="sounds/sound766.mp3" desc=""/>
+	
+	<Node id="101"   load_type="scence_bg"  file_name="sounds/sound1862.mp3" desc="最终boss战"/>
+	<Node id="102"   load_type="scence_bg"  file_name="sounds/sound176.mp3" desc="训练场景"/>
+	<Node id="103"   load_type="scence_bg"  file_name="sounds/sound870.mp3" desc="怪物场景"/>
+	
+	<Node id="200"   load_type="start_cg"  file_name="sounds/startcg.mp3" desc="开场cg"/>
+	<Node id="201"   load_type="boss_dia_cg"  file_name="sounds/bossDia.mp3" desc="boss战斗前对话"/>
+	<Node id="202"   load_type="boss_dia_cg_exp"  file_name="sounds/sound2217.mp3" desc="boss战斗前对话闪电"/>
+	
+<!--英雄-->
+
+	<Node id="1000"   load_type="pre_load"  file_name="sounds/sound386.mp3" desc=""/>
+	<Node id="1001"   load_type="pre_load"  file_name="sounds/sound398.mp3" desc=""/>
+	<Node id="1002"   load_type="pre_load"  file_name="sounds/sound413.mp3" desc=""/>
+	<Node id="1003"   load_type="pre_load"  file_name="sounds/sound345.mp3" desc=""/>
+	<Node id="1004"   load_type="pre_load"  file_name="sounds/sound545.mp3" desc=""/>
+	<Node id="1005"   load_type="pre_load"  file_name="sounds/sound636.mp3" desc=""/>
+	<Node id="1006"   load_type="pre_load"  file_name="sounds/sound436.mp3" desc=""/>
+	<Node id="1007"   load_type="pre_load"  file_name="sounds/sound548.mp3" desc=""/>
+	<Node id="1008"   load_type="pre_load"  file_name="sounds/sound279.mp3" desc=""/>
+	<Node id="1009"   load_type="pre_load"  file_name="sounds/sound322.mp3" desc=""/>
+	<Node id="1010"   load_type="pre_load"  file_name="sounds/sound301.mp3" desc=""/>
+	<Node id="1011"   load_type="pre_load"  file_name="sounds/sound553.mp3" desc=""/>
+	<Node id="1012"   load_type="pre_load"  file_name="sounds/sound979.mp3" desc=""/>
+	<Node id="1013"   load_type="pre_load"  file_name="sounds/sound943.mp3" desc=""/>
+	<Node id="1014"   load_type="pre_load"  file_name="sounds/sound70.mp3" desc=""/>
+	<Node id="1015"   load_type="pre_load"  file_name="sounds/sound1692.mp3" desc=""/>
+	<Node id="1016"   load_type="pre_load"  file_name="sounds/sound2177.mp3" desc=""/>
+	<Node id="1017"   load_type="pre_load"  file_name="sounds/sound1610.mp3" desc=""/>
+	
+	
+	
+</game_sound_config>

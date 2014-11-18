@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anima_sound_config>
+<!--英雄-->
+	<Node anima_name="AttackLandscape"  desc="英雄横向攻击" start_frame="1,2,3" sounds_id="1000"/>
+	<Node anima_name="ChopAttack"  desc="英雄下劈攻击" start_frame="1,2,3" sounds_id="1001"/>
+	 <Node anima_name="parry"  desc="英雄反击" start_frame="4,5,6" sounds_id="1000"/>
+	<Node anima_name="TurnRoundAttack"  desc="英雄转身攻击" start_frame="1,2,3" sounds_id="1002"/>
+	<Node anima_name="RunAnima"  desc="英雄跑步落地" start_frame="7" sounds_id="1003"/>
+	<Node anima_name="HeroHurt"  desc="英雄受伤" start_frame="1,2,3" sounds_id="1008"/>
+	<Node anima_name="DeadAnima"  desc="英雄死亡" start_frame="1,2,3" sounds_id="1005"/>
+	<Node anima_name="UpAttack"  desc="英雄上挑攻击" start_frame="1,2,3" sounds_id="1006"/>
+    <Node anima_name="HeavyAttack"  desc="英雄重攻击" start_frame="1,2,3" sounds_id="1007"/>
+	 <Node anima_name="BasisSoldierHurtAnima"  desc="基础士兵受击" start_frame="1,2,3" sounds_id="1008"/>
+	 <Node anima_name="BasisSoldierBaseAttack"  desc="基础士兵基本攻击" start_frame="2,3,4" sounds_id="1009"/>
+	 <Node anima_name="BasisSoldieSeniorAttack"  desc="基础士兵高级攻击" start_frame="1,2,3" sounds_id="1010"/>
+	 <Node anima_name="TallAttackMc"  desc="高大士兵攻击" start_frame="21,22,23" sounds_id="1007"/>
+	 <Node anima_name="TallHurtMc"  desc="高大士兵受击" start_frame="1,2,3" sounds_id="1008"/>
+	 <Node anima_name="AnimalHurt"  desc="动物士兵受击" start_frame="1,2,3" sounds_id="1008"/>
+	 <Node anima_name="AnimaDead"  desc="动物士兵死亡" start_frame="1,2,3" sounds_id="1011"/>
+	 <Node anima_name="TwoKnivesAttackMc"  desc="双刀士兵攻击1" start_frame="15,16,17" sounds_id="1006"/>
+	 <Node anima_name="TwoKnivesAttackMc"  desc="双刀士兵攻击2" start_frame="31,32,33" sounds_id="1009"/>
+	 <Node anima_name="TwoKnivesAttackMc"  desc="双刀士兵攻击3" start_frame="45,46,47" sounds_id="1002"/>
+	 <Node anima_name="TwoKnivesAttackMc"  desc="双刀士兵攻击4" start_frame="66,67,68" sounds_id="1001"/>
+	 <Node anima_name="TwoKnivesHurtMc"  desc="双刀士兵受伤" start_frame="1,2,3" sounds_id="1008"/>
+	 <Node anima_name="expsmoke"  desc="爆炸" start_frame="1" sounds_id="1011"/>
+	 
+	 <Node anima_name="attack"  desc="怪物攻击" start_frame="14,15,16" sounds_id="1013"/>
+	 <Node anima_name="landAttack"  desc="怪物横向攻击" start_frame="24,25,26" sounds_id="1012"/>
+	 <Node anima_name="hurt"  desc="怪物受伤" start_frame="1,2,3" sounds_id="1010"/>
+	 <Node anima_name="death"  desc="怪物死亡" start_frame="1,2,3" sounds_id="1005"/>
+	 <Node anima_name="finalBossWalkLoop"  desc="最终boss走路" start_frame="18,19,20" sounds_id="1014"/>
+	 <Node anima_name="finalBossRunLoop"  desc="最终boss跑" start_frame="6,14,23,30" sounds_id="1003"/>
+	 <Node anima_name="finalBossRunEndAttack"  desc="最终boss跑接攻击" start_frame="1,2,3" sounds_id="1012"/>
+	 <Node anima_name="bossStrokes"  desc="最终boss大招" start_frame="1,2,3" sounds_id="1015"/>
+	 <Node anima_name="finalBossHurt"  desc="最终boss受击" start_frame="1,2,3" sounds_id="1008"/>	 
+	 <Node anima_name="finalBossStrokesStart"  desc="最终boss大招准备" start_frame="1,2,3" sounds_id="1000"/>	 
+	 <Node anima_name="finalBossAttack"  desc="最终boss拳击" start_frame="1,2,3" sounds_id="1016"/>	 
+	 <Node anima_name="finalBossAttack_1"  desc="最终boss拳击" start_frame="33,34,35" sounds_id="1001"/>
+	 <Node anima_name="finalBossAttack_2"  desc="最终boss拳击" start_frame="12,13,14" sounds_id="1009"/>
+	 <Node anima_name="finalBossAttack_3"  desc="最终boss拳击" start_frame="19,20,21" sounds_id="1013"/>
+	 <Node anima_name="finalBossFlashStep"  desc="最终boss闪烁" start_frame="34,35,36" sounds_id="1017"/>
+	 <Node anima_name="finalBossFlashStep_1"  desc="最终boss闪烁" start_frame="60,61,62" sounds_id="1002"/>
+	 
+	 <!--cg招式-->
+	  <Node anima_name="heroHitGroup"  desc="boss死亡cg" start_frame="4,5,6" sounds_id="1006"/>
+	  <Node anima_name="heroHitGroup_1"  desc="boss死亡cg" start_frame="20,21,22" sounds_id="1008"/>
+	  <Node anima_name="heroHitGroup_2"  desc="boss死亡cg" start_frame="42,43,44" sounds_id="1001"/>
+	  <Node anima_name="heroFinallAttack"  desc="boss死亡cg" start_frame="105,106,107" sounds_id="1007"/>
+</anima_sound_config>

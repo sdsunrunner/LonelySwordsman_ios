@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:2ae30be9de88b4823bd33ad8c14c4554$ -->
+<TextureAtlas imagePath="basetallSoldier.png">
+    <SubTexture name="AnimaDead" x="417" y="292" width="67" height="17"/>
+    <SubTexture name="AnimalAttack0001" x="161" y="511" width="62" height="26" frameX="-9" frameY="-14" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0002" x="976" y="779" width="42" height="32" frameX="-13" frameY="-8" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0003" x="225" y="526" width="48" height="32" frameX="-14" frameY="-7" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0004" x="161" y="451" width="62" height="30" frameX="-11" frameY="-9" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0005" x="946" y="2" width="74" height="34" frameX="0" frameY="-6" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0006" x="946" y="38" width="74" height="32" frameX="0" frameY="-3" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0007" x="417" y="311" width="66" height="30" frameX="-5" frameY="0" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0008" x="417" y="311" width="66" height="30" frameX="-5" frameY="0" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0009" x="161" y="483" width="62" height="26" frameX="-6" frameY="-1" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0010" x="161" y="483" width="62" height="26" frameX="-6" frameY="-1" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0011" x="417" y="343" width="64" height="26" frameX="-7" frameY="-10" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0012" x="417" y="343" width="64" height="26" frameX="-7" frameY="-10" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0013" x="410" y="495" width="60" height="32" frameX="-10" frameY="-8" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0014" x="410" y="495" width="60" height="32" frameX="-10" frameY="-8" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0015" x="366" y="351" width="48" height="38" frameX="-13" frameY="-2" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalAttack0016" x="366" y="351" width="48" height="38" frameX="-13" frameY="-2" frameWidth="74" frameHeight="40"/>
+    <SubTexture name="AnimalHurt0001" x="904" y="527" width="57" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0002" x="904" y="527" width="57" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0003" x="472" y="523" width="59" height="22" frameX="-1" frameY="-2" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0004" x="472" y="523" width="59" height="22" frameX="-1" frameY="-2" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0005" x="472" y="523" width="59" height="22" frameX="-1" frameY="-2" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0006" x="472" y="523" width="59" height="22" frameX="-1" frameY="-2" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0007" x="472" y="523" width="59" height="22" frameX="-1" frameY="-2" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0008" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0009" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0010" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0011" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0012" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0013" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0014" x="614" y="378" width="61" height="20" frameX="0" frameY="-4" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0015" x="472" y="497" width="59" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0016" x="472" y="497" width="59" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0017" x="472" y="497" width="59" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0018" x="472" y="497" width="59" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0019" x="472" y="497" width="59" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalHurt0020" x="472" y="497" width="59" height="24" frameX="-2" frameY="0" frameWidth="61" frameHeight="24"/>
+    <SubTexture name="AnimalIdel" x="417" y="267" width="67" height="23"/>
+    <SubTexture name="AnimalWalk0001" x="776" y="279" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0002" x="776" y="279" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0003" x="776" y="279" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0004" x="548" y="289" width="66" height="25" frameX="0" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0005" x="548" y="289" width="66" height="25" frameX="0" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0006" x="548" y="289" width="66" height="25" frameX="0" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0007" x="776" y="252" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0008" x="776" y="252" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0009" x="776" y="252" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0010" x="776" y="225" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0011" x="776" y="225" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0012" x="776" y="225" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0013" x="617" y="277" width="66" height="25" frameX="-1" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0014" x="617" y="277" width="66" height="25" frameX="-1" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0015" x="617" y="277" width="66" height="25" frameX="-1" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0016" x="776" y="198" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0017" x="776" y="198" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0018" x="776" y="198" width="68" height="25"/>
+    <SubTexture name="AnimalWalk0019" x="281" y="383" width="64" height="25" frameX="-2" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0020" x="281" y="383" width="64" height="25" frameX="-2" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0021" x="281" y="383" width="64" height="25" frameX="-2" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="AnimalWalk0022" x="416" y="371" width="64" height="25" frameX="-1" frameY="0" frameWidth="68" frameHeight="25"/>
+    <SubTexture name="BasisSoldieSeniorAttack0001" x="810" y="712" width="54" height="83" frameX="-4" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0002" x="681" y="728" width="52" height="83" frameX="-6" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0003" x="367" y="179" width="48" height="85" frameX="-10" frameY="0" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0004" x="988" y="256" width="34" height="83" frameX="-23" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0005" x="246" y="273" width="34" height="83" frameX="-24" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0006" x="246" y="273" width="34" height="83" frameX="-24" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0007" x="808" y="474" width="30" height="83" frameX="-28" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0008" x="808" y="474" width="30" height="83" frameX="-28" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0009" x="808" y="474" width="30" height="83" frameX="-28" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0010" x="815" y="306" width="28" height="83" frameX="-30" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0011" x="815" y="306" width="28" height="83" frameX="-30" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0012" x="815" y="306" width="28" height="83" frameX="-30" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0013" x="815" y="306" width="28" height="83" frameX="-30" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0014" x="815" y="391" width="28" height="81" frameX="-31" frameY="-3" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0015" x="815" y="391" width="28" height="81" frameX="-31" frameY="-3" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0016" x="815" y="391" width="28" height="81" frameX="-31" frameY="-3" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0017" x="815" y="391" width="28" height="81" frameX="-31" frameY="-3" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0018" x="988" y="341" width="32" height="85" frameX="-28" frameY="0" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0019" x="367" y="266" width="48" height="83" frameX="-25" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0020" x="639" y="100" width="42" height="83" frameX="-24" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0021" x="246" y="188" width="34" height="83" frameX="-23" frameY="-1" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0022" x="410" y="529" width="58" height="85" frameX="0" frameY="0" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0023" x="738" y="481" width="56" height="73" frameX="0" frameY="-12" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0024" x="504" y="250" width="42" height="77" frameX="-17" frameY="-14" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0025" x="789" y="797" width="52" height="73" frameX="-16" frameY="-15" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0026" x="282" y="314" width="82" height="67" frameX="-18" frameY="-18" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0027" x="161" y="384" width="80" height="65" frameX="-18" frameY="-20" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0028" x="2" y="387" width="80" height="67" frameX="-17" frameY="-19" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0029" x="2" y="456" width="78" height="69" frameX="-19" frameY="-16" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0030" x="85" y="357" width="74" height="71" frameX="-21" frameY="-14" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0031" x="476" y="422" width="60" height="73" frameX="-22" frameY="-12" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0032" x="735" y="731" width="52" height="75" frameX="-22" frameY="-11" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0033" x="121" y="181" width="38" height="75" frameX="-24" frameY="-10" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0034" x="121" y="100" width="38" height="79" frameX="-24" frameY="-6" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0035" x="504" y="169" width="42" height="79" frameX="-19" frameY="-6" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0036" x="276" y="500" width="62" height="81" frameX="0" frameY="-5" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0037" x="346" y="483" width="62" height="81" frameX="0" frameY="-4" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0038" x="676" y="457" width="60" height="81" frameX="-2" frameY="-4" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0039" x="746" y="398" width="60" height="81" frameX="-2" frameY="-4" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0040" x="845" y="376" width="60" height="81" frameX="-3" frameY="-5" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0041" x="548" y="411" width="60" height="81" frameX="-2" frameY="-4" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0042" x="599" y="495" width="58" height="79" frameX="-4" frameY="-5" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0043" x="400" y="616" width="58" height="79" frameX="-2" frameY="-6" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0044" x="340" y="566" width="58" height="81" frameX="-1" frameY="-4" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0045" x="470" y="547" width="58" height="81" frameX="-1" frameY="-5" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0046" x="956" y="608" width="56" height="83" frameX="-2" frameY="-3" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0047" x="898" y="553" width="56" height="83" frameX="-2" frameY="-4" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0048" x="840" y="545" width="56" height="83" frameX="-2" frameY="-3" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldieSeniorAttack0049" x="810" y="712" width="54" height="83" frameX="-4" frameY="-2" frameWidth="100" frameHeight="91"/>
+    <SubTexture name="BasisSoldierBaseAttack0001" x="571" y="662" width="53" height="82" frameX="-4" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0002" x="571" y="662" width="53" height="82" frameX="-4" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0003" x="735" y="808" width="47" height="84" frameX="-10" frameY="0" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0004" x="244" y="358" width="35" height="82" frameX="-21" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0005" x="244" y="358" width="35" height="82" frameX="-21" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0006" x="243" y="442" width="31" height="82" frameX="-26" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0007" x="243" y="442" width="31" height="82" frameX="-26" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0008" x="845" y="459" width="57" height="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0009" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0010" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0011" x="887" y="638" width="55" height="78" frameX="0" frameY="-5" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0012" x="887" y="638" width="55" height="78" frameX="0" frameY="-5" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0013" x="626" y="718" width="53" height="76" frameX="-1" frameY="-7" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0014" x="626" y="718" width="53" height="76" frameX="-1" frameY="-7" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0015" x="626" y="718" width="53" height="76" frameX="-1" frameY="-7" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0016" x="626" y="718" width="53" height="76" frameX="-1" frameY="-7" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0017" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0018" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0019" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0020" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0021" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0022" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0023" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0024" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0025" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0026" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0027" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0028" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0029" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0030" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0031" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0032" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0033" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0034" x="830" y="630" width="55" height="80" frameX="0" frameY="-3" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierBaseAttack0035" x="571" y="662" width="53" height="82" frameX="-4" frameY="-2" frameWidth="57" frameHeight="84"/>
+    <SubTexture name="BasisSoldierDeath0001" x="907" y="441" width="57" height="84" frameX="-2" frameY="-9" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0002" x="907" y="441" width="57" height="84" frameX="-2" frameY="-9" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0003" x="2" y="299" width="81" height="86" frameX="-4" frameY="-7" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0004" x="2" y="299" width="81" height="86" frameX="-4" frameY="-7" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0005" x="2" y="299" width="81" height="86" frameX="-4" frameY="-7" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0006" x="161" y="96" width="119" height="90" frameX="-2" frameY="-3" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0007" x="429" y="77" width="121" height="90" frameX="0" frameY="-3" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0008" x="2" y="100" width="117" height="90" frameX="-4" frameY="-3" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0009" x="2" y="2" width="157" height="96" frameX="0" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0010" x="296" y="81" width="119" height="96" frameX="-37" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0011" x="984" y="428" width="37" height="92" frameX="-33" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0012" x="562" y="2" width="123" height="96" frameX="-33" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0013" x="562" y="2" width="123" height="96" frameX="-33" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0014" x="161" y="2" width="133" height="92" frameX="-29" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0015" x="161" y="2" width="133" height="92" frameX="-29" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0016" x="866" y="718" width="53" height="90" frameX="-29" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0017" x="866" y="718" width="53" height="90" frameX="-29" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0018" x="347" y="391" width="63" height="90" frameX="-27" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0019" x="347" y="391" width="63" height="90" frameX="-27" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0020" x="347" y="391" width="63" height="90" frameX="-27" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0021" x="915" y="349" width="67" height="90" frameX="-25" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0022" x="915" y="349" width="67" height="90" frameX="-25" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0023" x="915" y="349" width="67" height="90" frameX="-25" frameY="0" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0024" x="846" y="284" width="67" height="90" frameX="-25" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0025" x="846" y="284" width="67" height="90" frameX="-25" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0026" x="846" y="284" width="67" height="90" frameX="-25" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierDeath0027" x="846" y="284" width="67" height="90" frameX="-25" frameY="-1" frameWidth="171" frameHeight="96"/>
+    <SubTexture name="BasisSoldierHurtAnima0001" x="773" y="559" width="55" height="84" frameX="-1" frameY="0" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0002" x="921" y="779" width="53" height="84" frameX="-2" frameY="0" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0003" x="616" y="304" width="65" height="72" frameX="-4" frameY="-11" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0004" x="616" y="304" width="65" height="72" frameX="-4" frameY="-11" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0005" x="616" y="304" width="65" height="72" frameX="-4" frameY="-11" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0006" x="685" y="292" width="65" height="72" frameX="-4" frameY="-12" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0007" x="685" y="292" width="65" height="72" frameX="-4" frameY="-12" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0008" x="685" y="292" width="65" height="72" frameX="-4" frameY="-12" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0009" x="685" y="292" width="65" height="72" frameX="-4" frameY="-12" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0010" x="538" y="494" width="59" height="80" frameX="0" frameY="-4" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0011" x="538" y="494" width="59" height="80" frameX="0" frameY="-4" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0012" x="538" y="494" width="59" height="80" frameX="0" frameY="-4" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0013" x="538" y="494" width="59" height="80" frameX="0" frameY="-4" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0014" x="538" y="494" width="59" height="80" frameX="0" frameY="-4" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierHurtAnima0015" x="716" y="556" width="55" height="84" frameX="0" frameY="0" frameWidth="69" frameHeight="84"/>
+    <SubTexture name="BasisSoldierIdelMc" x="516" y="662" width="53" height="82"/>
+    <SubTexture name="BasisSoldierWalkAnima0001" x="754" y="645" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0002" x="698" y="642" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0003" x="698" y="642" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0004" x="698" y="642" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0005" x="642" y="632" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0006" x="642" y="632" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0007" x="586" y="576" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0008" x="586" y="576" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0009" x="460" y="630" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0010" x="530" y="576" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0011" x="530" y="576" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0012" x="944" y="693" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0013" x="944" y="693" width="54" height="84" frameX="-2" frameY="0" frameWidth="56" frameHeight="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0014" x="966" y="522" width="56" height="84"/>
+    <SubTexture name="BasisSoldierWalkAnima0015" x="966" y="522" width="56" height="84"/>
+    <SubTexture name="TallAttackMc0001" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0002" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0003" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0004" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0005" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0006" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0007" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0008" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0009" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0010" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0011" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0012" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0013" x="548" y="198" width="67" height="89" frameX="-67" frameY="-43" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0014" x="548" y="198" width="67" height="89" frameX="-67" frameY="-43" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0015" x="683" y="366" width="61" height="89" frameX="-79" frameY="-43" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0016" x="683" y="366" width="61" height="89" frameX="-79" frameY="-43" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0017" x="485" y="329" width="61" height="91" frameX="-81" frameY="-42" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0018" x="485" y="329" width="61" height="91" frameX="-81" frameY="-42" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0019" x="709" y="185" width="65" height="105" frameX="-80" frameY="-27" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0020" x="709" y="185" width="65" height="105" frameX="-80" frameY="-27" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0021" x="84" y="430" width="75" height="107" frameX="-79" frameY="-26" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0022" x="84" y="430" width="75" height="107" frameX="-79" frameY="-26" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0023" x="780" y="2" width="87" height="101" frameX="-76" frameY="-32" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0024" x="780" y="2" width="87" height="101" frameX="-76" frameY="-32" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0025" x="780" y="2" width="87" height="101" frameX="-76" frameY="-32" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0026" x="2" y="192" width="93" height="105" frameX="-68" frameY="-28" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0027" x="2" y="192" width="93" height="105" frameX="-68" frameY="-28" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0028" x="282" y="179" width="83" height="133" frameX="-47" frameY="0" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0029" x="429" y="2" width="131" height="73" frameX="0" frameY="-60" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0030" x="429" y="2" width="131" height="73" frameX="0" frameY="-60" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0031" x="429" y="2" width="131" height="73" frameX="0" frameY="-60" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0032" x="296" y="2" width="131" height="77" frameX="0" frameY="-56" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0033" x="296" y="2" width="131" height="77" frameX="0" frameY="-56" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0034" x="296" y="2" width="131" height="77" frameX="0" frameY="-56" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0035" x="296" y="2" width="131" height="77" frameX="0" frameY="-56" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0036" x="296" y="2" width="131" height="77" frameX="0" frameY="-56" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0037" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0038" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0039" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0040" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0041" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0042" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0043" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0044" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0045" x="687" y="2" width="91" height="85" frameX="-36" frameY="-48" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallAttackMc0046" x="776" y="105" width="69" height="91" frameX="-53" frameY="-41" frameWidth="163" frameHeight="133"/>
+    <SubTexture name="TallDeath0001" x="659" y="540" width="55" height="90" frameX="0" frameY="-14" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0002" x="659" y="540" width="55" height="90" frameX="0" frameY="-14" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0003" x="847" y="194" width="69" height="88" frameX="-4" frameY="-16" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0004" x="847" y="194" width="69" height="88" frameX="-4" frameY="-16" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0005" x="847" y="194" width="69" height="88" frameX="-4" frameY="-16" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0006" x="281" y="410" width="63" height="88" frameX="-7" frameY="-16" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0007" x="281" y="410" width="63" height="88" frameX="-7" frameY="-16" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0008" x="281" y="410" width="63" height="88" frameX="-7" frameY="-16" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0009" x="2" y="527" width="77" height="92" frameX="-6" frameY="-12" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0010" x="2" y="527" width="77" height="92" frameX="-6" frameY="-12" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0011" x="2" y="527" width="77" height="92" frameX="-6" frameY="-12" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0012" x="161" y="188" width="83" height="96" frameX="-7" frameY="-8" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0013" x="161" y="188" width="83" height="96" frameX="-7" frameY="-8" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0014" x="161" y="188" width="83" height="96" frameX="-7" frameY="-8" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0015" x="417" y="169" width="85" height="96" frameX="-6" frameY="-5" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0016" x="417" y="169" width="85" height="96" frameX="-6" frameY="-5" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0017" x="417" y="169" width="85" height="96" frameX="-6" frameY="-5" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0018" x="552" y="100" width="85" height="96" frameX="-3" frameY="-6" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0019" x="552" y="100" width="85" height="96" frameX="-3" frameY="-6" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0020" x="552" y="100" width="85" height="96" frameX="-3" frameY="-6" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0021" x="687" y="89" width="87" height="94" frameX="-2" frameY="-4" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0022" x="687" y="89" width="87" height="94" frameX="-2" frameY="-4" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0023" x="687" y="89" width="87" height="94" frameX="-2" frameY="-4" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0024" x="161" y="286" width="81" height="96" frameX="-2" frameY="0" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0025" x="161" y="286" width="81" height="96" frameX="-2" frameY="0" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0026" x="161" y="286" width="81" height="96" frameX="-2" frameY="0" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0027" x="869" y="2" width="75" height="98" frameX="-6" frameY="0" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0028" x="869" y="2" width="75" height="98" frameX="-6" frameY="0" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0029" x="869" y="2" width="75" height="98" frameX="-6" frameY="0" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0030" x="752" y="306" width="61" height="90" frameX="-11" frameY="-4" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0031" x="752" y="306" width="61" height="90" frameX="-11" frameY="-4" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallDeath0032" x="752" y="306" width="61" height="90" frameX="-11" frameY="-4" frameWidth="91" frameHeight="104"/>
+    <SubTexture name="TallHurtMc0001" x="918" y="256" width="68" height="91" frameX="0" frameY="-5" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0002" x="614" y="400" width="60" height="93" frameX="-9" frameY="-3" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0003" x="614" y="400" width="60" height="93" frameX="-9" frameY="-3" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0004" x="412" y="398" width="62" height="95" frameX="-8" frameY="-1" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0005" x="412" y="398" width="62" height="95" frameX="-8" frameY="-1" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0006" x="412" y="398" width="62" height="95" frameX="-8" frameY="-1" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0007" x="412" y="398" width="62" height="95" frameX="-8" frameY="-1" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0008" x="97" y="258" width="62" height="97" frameX="-7" frameY="0" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0009" x="97" y="258" width="62" height="97" frameX="-7" frameY="0" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0010" x="97" y="258" width="62" height="97" frameX="-7" frameY="0" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0011" x="548" y="316" width="64" height="93" frameX="-3" frameY="-4" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0012" x="548" y="316" width="64" height="93" frameX="-3" frameY="-4" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0013" x="548" y="316" width="64" height="93" frameX="-3" frameY="-4" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallHurtMc0014" x="548" y="316" width="64" height="93" frameX="-3" frameY="-4" frameWidth="70" frameHeight="97"/>
+    <SubTexture name="TallIdelMc" x="639" y="185" width="68" height="90"/>
+    <SubTexture name="TallWalklMc0001" x="943" y="164" width="70" height="90" frameX="0" frameY="0" frameWidth="72" frameHeight="90"/>
+    <SubTexture name="TallWalklMc0002" x="943" y="164" width="70" height="90" frameX="0" frameY="0" frameWidth="72" frameHeight="90"/>
+    <SubTexture name="TallWalklMc0003" x="943" y="164" width="70" height="90" frameX="0" frameY="0" frameWidth="72" frameHeight="90"/>
+    <SubTexture name="TallWalklMc0004" x="943" y="164" width="70" height="90" frameX="0" frameY="0" frameWidth="72" frameHeight="90"/>
+    <SubTexture name="TallWalklMc0005" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0006" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0007" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0008" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0009" x="946" y="72" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0010" x="946" y="72" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0011" x="946" y="72" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0012" x="946" y="72" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0013" x="946" y="72" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0014" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0015" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0016" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0017" x="869" y="102" width="72" height="90"/>
+    <SubTexture name="TallWalklMc0018" x="869" y="102" width="72" height="90"/>
+</TextureAtlas>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="117" height="37" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="117" height="37">
+  <data encoding="base64" compression="zlib">
+   eJzt0zEOwjAUBUHTpOP+10V0FJGQXQSzmZVe/+WRjzHGcTLt0ZnN6rRHTHsx7cW0F9NeTHsx7cW0F9NeTHsx7cV0vuevD/gS0/mY9nqbzrzL4+L7mM73+U93dGU634rpla5M51s1/cfdJaa9mPZi2otpL6a9mPZi2otpL6a9mPZi2utOpmZmZmZmZjvvBRiBLYI=
+  </data>
+ </layer>
+ <objectgroup name="obj" width="117" height="37">
+  <object type="citrus.objects.platformer.nape.Platform" x="1406" y="955">
+   <polygon points="-1216,4 737,4 737,20 -1216,29"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2146" y="704">
+   <polygon points="-1,-213 30,-214 30,257 -2,257"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1922" y="478">
+   <polygon points="220,1 167,-30 512,-30 605,67"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2655" y="545">
+   <polygon points="-127,0 -124,22 672,26 672,0"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="3328" y="0">
+   <polygon points="0,0 32,0 32,544 0,544"/>
+  </object>
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="448" y="889" width="30" height="70"/>
+  <object name="endFlag" type="game.view.gameScenceView.scenceSensor.ScenceEndSensor" x="3271" y="476" width="50" height="70"/>
+  <object name="ladder" type="game.scenceInterac.ladder.LadderSensor" x="2050" y="470">
+   <polygon points="-10,490 36,489 37,-82 -8,-82"/>
+  </object>
+  <object name="animal1" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="2954" y="510" width="32" height="32">
+   <properties>
+    <property name="leftBound" value="2850"/>
+    <property name="rightBound" value="3000"/>
+   </properties>
+  </object>
+  <object name="pillar" type="game.view.destructibleItem.DestructibleTerrainPillar" x="896" y="784" width="44" height="175"/>
+  <object type="citrus.objects.platformer.nape.Platform" x="159" y="415">
+   <polygon points="0,0 32,0 32,544 0,544"/>
+  </object>
+  <object name="baseSolider3" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="2304" y="370" width="37" height="76">
+   <properties>
+    <property name="leftBound" value="2110"/>
+    <property name="rightBound" value="2350"/>
+   </properties>
+  </object>
+  <object name="baseSolider2" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="1856" y="886" width="37" height="76">
+   <properties>
+    <property name="leftBound" value="1700"/>
+    <property name="rightBound" value="2010"/>
+   </properties>
+  </object>
+  <object name="baseSolider1" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="1376" y="882" width="37" height="76">
+   <properties>
+    <property name="leftBound" value="960"/>
+    <property name="rightBound" value="1500"/>
+   </properties>
+  </object>
+  <object name="tallSolider4" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="2752" y="470" width="37" height="76">
+   <properties>
+    <property name="leftBound" value="2590"/>
+    <property name="rightBound" value="2848"/>
+   </properties>
+  </object>
+  <object name="animal2" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="3072" y="512" width="32" height="32">
+   <properties>
+    <property name="leftBound" value="3050"/>
+    <property name="rightBound" value="3140"/>
+   </properties>
+  </object>
+  <object name="ladder" type="game.scenceInterac.ladder.LadderPlatform" x="2048" y="965" width="31" height="31"/>
+ </objectgroup>
+</map>

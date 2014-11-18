@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzyEOACAMBMGq/v/JGCQ4COQyl6yr6HRV9Sx1vSl1vLxJ4+VNGi9v0nh5k8a79u7ufo+Xl/f937xnvZIkSTcaejQWFQ==
+  </data>
+ </layer>
+ <objectgroup name="platform" width="60" height="30">
+  <object type="citrus.objects.platformer.nape.Platform" x="65" y="-63">
+   <polygon points="2,76 30,76 32,736 0,736"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="-685" y="700">
+   <polygon points="698,-8 2554,-10 2555,96 698,92"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="-472" y="426">
+   <polygon points="714,53 2162,55 2162,247 711,246"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1826" y="-66">
+   <polygon points="-2,96 26,96 32,736 0,736"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="obj" width="60" height="30">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="784" y="405" width="48" height="70"/>
+  <object name="fianlBoss" type="game.view.boss.finalBoss.FinalBossView" x="1303" y="402" width="50" height="75"/>
+  <object name="dici" type="game.view.enviEnemy.dici.DiCiEnemy" x="102" y="667" width="136" height="24"/>
+  <object name="dici" type="game.view.enviEnemy.dici.DiCiEnemy" x="1692" y="665" width="132" height="23"/>
+ </objectgroup>
+</map>

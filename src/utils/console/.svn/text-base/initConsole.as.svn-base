@@ -1,0 +1,22 @@
+package com.ultizen.game.fswd2.console
+{
+	import com.junkbyte.console.Cc;
+	
+	import flash.display.DisplayObject;
+
+	public function initConsole(root:DisplayObject):void
+	{
+		CONFIG::IMPOLDER
+		{
+			Cc.startOnStage(root, "`");
+			Cc.commandLine = true;
+			Cc.remotingPassword = null;
+			Cc.remoting = true;
+			Cc.config.alwaysOnTop = true;
+			Cc.config.commandLineAllowed = true;
+			Cc.visible = false;
+			Cc.width = 400;
+			Cc.height = 300;
+		}
+	}
+}

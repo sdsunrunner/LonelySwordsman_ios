@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="85" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="85" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0EENACAQwLB74V8yHmDhQ5vMwNbMrIN+cPLlph942vO052nP056nPU97nvY87Xna87Tnac/Tnqc9T3ue9jztedrztOdpz9Oep73XTyVJkjSzASoUHQs=
+  </data>
+ </layer>
+ <objectgroup name="platform" width="85" height="30">
+  <object type="citrus.objects.platformer.nape.Platform" x="416" y="736">
+   <polygon points="0,0 1888,0 1894,94 0,100"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="417" y="12">
+   <polygon points="0,0 32,0 32,736 0,736"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2269" y="6">
+   <polygon points="0,0 32,0 32,736 0,736"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="obj" width="85" height="30">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="1181" y="640" width="44" height="93"/>
+  <object name="enemyCreater" type="game.view.survivalMode.SurvivalModeEnemyCreater" x="460" y="55" width="954" height="44"/>
+ </objectgroup>
+</map>

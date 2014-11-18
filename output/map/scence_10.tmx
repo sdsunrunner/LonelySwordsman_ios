@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="182" height="45" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="182" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2ctuwjAABdGUPqQu+v+/23ZREVAd8sS+8RlplljId4SADAMAAAAAAABS+Kr9BoAD0DXOiK5R4qNgAr9dl97/kaJ9krf7+7z+HPSMW5I3HH8P0TXGJG+oa5RI3nDt70Zdn5/kDXWNEskb6holkjfU9Tzeh+f8/kgwAV0/RtN5G9Z6LpNyZ5puf6P/ePZzmZbvqnYvKSbw7P+vW76r2r2kmICur9TuJcUEdH2ldi8pJqDrWy4jX39823je3DMuB58/5ixbTaHr/uhhK133Rw9b6bo/ethK1/1xxFaeXzHdezRd7+6nWPu6tLOPuFtNt9n1/S4vC16bdvbed6vpNrsu7bJHfy2evefdarrNrh/tsqW/Vs/e6241Xc8p5u6ypr+Wz669CbdbYulnzZL+Wj+79iYkSZIkSZIkSZIk+/EboOtcxQ==
+  </data>
+ </layer>
+ <objectgroup name="platform" width="182" height="45">
+  <object type="citrus.objects.platformer.nape.Platform" x="392" y="163">
+   <polygon points="0,0 32,0 34,733 1,733"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="163" y="894">
+   <polygon points="266,0 1467,1 1469,34 264,30"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="175" y="296">
+   <polygon points="1377,-8 2281,-8 2271,25 1417,26"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="172" y="588">
+   <polygon points="1385,-10 1779,-11 1779,17 1398,19"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="5503" y="158">
+   <polygon points="0,0 32,0 32,736 0,736"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1604" y="635">
+   <polygon points="-3,0 32,0 27,257 -4,257"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1956" y="415">
+   <polygon points="-5,1 32,0 30,191 -3,191"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2132" y="898">
+   <polygon points="429,-3 3435,-3 3435,33 430,27"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2366" y="323">
+   <polygon points="0,0 32,0 33,285 1,285"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2132" y="576">
+   <polygon points="266,0 517,-1 517,32 266,31"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2559" y="607">
+   <polygon points="0,0 32,0 32,291 -1,291"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="obj" width="182" height="45">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="608" y="824" width="48" height="70"/>
+  <object name="endFlag" type="game.view.gameScenceView.scenceSensor.ScenceEndSensor" x="5452" y="825" width="48" height="67"/>
+  <object name="baseSoldier2" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="1792" y="503" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1568"/>
+    <property name="rightBound" value="1888"/>
+   </properties>
+  </object>
+  <object name="baseSoldier7" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="2944" y="819" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="2780"/>
+    <property name="rightBound" value="3000"/>
+   </properties>
+  </object>
+  <object name="baseSoldier1" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="1408" y="821" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1100"/>
+    <property name="rightBound" value="1536"/>
+   </properties>
+  </object>
+  <object name="dog2" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="2558" y="548" width="18" height="25">
+   <properties>
+    <property name="leftBound" value="2432"/>
+    <property name="rightBound" value="2590"/>
+   </properties>
+  </object>
+  <object name="animalSoldier12" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="5238" y="864" width="20" height="28">
+   <properties>
+    <property name="leftBound" value="5090"/>
+    <property name="rightBound" value="5280"/>
+   </properties>
+  </object>
+  <object name="baseSoldier4" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="2176" y="210" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1920"/>
+    <property name="rightBound" value="2370"/>
+   </properties>
+  </object>
+  <object name="ladder" type="game.scenceInterac.ladder.LadderPlatform" x="1504" y="897" width="32" height="33"/>
+  <object name="ladderSensor" type="game.scenceInterac.ladder.LadderSensor" x="1503" y="286" width="33" height="607"/>
+  <object name="rock1" type="game.view.enviEnemy.fallenRock.FallenRock" x="3668" y="674" width="16" height="16"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="3662" y="692" width="57" height="16"/>
+  <object name="rock2" type="game.view.enviEnemy.fallenRock.FallenRock" x="3695" y="674" width="16" height="16"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.FallRockScensor" x="3644" y="844" width="21" height="50"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="3727" y="691" width="57" height="16"/>
+  <object name="rock3" type="game.view.enviEnemy.fallenRock.FallenRock" x="3734" y="674" width="16" height="16"/>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.FallRockScensor" x="4090" y="845" width="21" height="50"/>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4117" y="694" width="57" height="15"/>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4185" y="694" width="57" height="15"/>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4252" y="693" width="57" height="15"/>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4013" y="693" width="57" height="15"/>
+  <object name="rock4" type="game.view.enviEnemy.fallenRock.FallenRock" x="4012" y="670" width="16" height="16"/>
+  <object name="rock5" type="game.view.enviEnemy.fallenRock.FallenRock" x="4127" y="672" width="16" height="16"/>
+  <object name="rock6" type="game.view.enviEnemy.fallenRock.FallenRock" x="4148" y="673" width="16" height="16"/>
+  <object name="rock7" type="game.view.enviEnemy.fallenRock.FallenRock" x="4197" y="671" width="16" height="16"/>
+  <object name="rock8" type="game.view.enviEnemy.fallenRock.FallenRock" x="4262" y="672" width="16" height="16"/>
+  <object name="rockSys3" type="game.scenceInterac.fallRockMaker.FallRockScensor" x="4766" y="846" width="21" height="50"/>
+  <object name="rockSys3" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4650" y="700" width="57" height="15"/>
+  <object name="rockSys3" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4766" y="703" width="57" height="15"/>
+  <object name="rockSys3" type="game.scenceInterac.fallRockMaker.RockPlatform" x="4840" y="703" width="57" height="15"/>
+  <object name="rock9" type="game.view.enviEnemy.fallenRock.FallenRock" x="4669" y="678" width="16" height="16"/>
+  <object name="rock10" type="game.view.enviEnemy.fallenRock.FallenRock" x="4775" y="680" width="16" height="16"/>
+  <object name="rock10" type="game.view.enviEnemy.fallenRock.FallenRock" x="4857" y="680" width="16" height="16"/>
+  <object type="game.scenceInterac.fallRockMaker.FallRockRemoveScensor" x="3597" y="898" width="1512" height="22"/>
+  <object name="TallSoldierEnemy2" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="3933" y="824" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="3840"/>
+    <property name="rightBound" value="4160"/>
+   </properties>
+  </object>
+  <object name="TallSoldierEnemy1" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="4585" y="823" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="4200"/>
+    <property name="rightBound" value="4800"/>
+   </properties>
+  </object>
+  <object name="TallSoldierEnemy0" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="1826" y="213" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1600"/>
+    <property name="rightBound" value="1900"/>
+   </properties>
+  </object>
+  <object name="baseSoldier0" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="956" y="818" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="830"/>
+    <property name="rightBound" value="1000"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

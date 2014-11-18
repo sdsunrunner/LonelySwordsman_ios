@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles_config>
+	<Node id="1000" status_bar_type=""  head_name="" type="hero" max_hp="300" max_mp="300" max_velocity="150"  hurt_move_frames="1,2,3,4,5,6,7,8,9,10,11" hurt_move_dis="0,0,0,0,1,3,-1,0,0,0,0"  desc="基础英雄"/>
+	<Node id="2000" status_bar_type="1" head_name="baseHead"  type="enemy" max_hp="30" max_mp="0" max_velocity="40" hurt_move_frames="2,3" hurt_move_dis="5,3"  desc="基础士兵"/>
+	<Node id="2001" status_bar_type="2"  head_name="tallHead"  type="enemy" max_hp="40" max_mp="0" max_velocity="35" hurt_move_frames="" hurt_move_dis=""  desc="高大士兵"/>
+	<Node id="2002" status_bar_type="0"  head_name="animaHead"  type="enemy" max_hp="7" max_mp="0" max_velocity="60"  hurt_move_frames="" hurt_move_dis=""  desc="动物"/>
+	<Node id="2003" status_bar_type="2"  head_name="shuangdaoHead"  type="enemy" max_hp="70" max_mp="0" max_velocity="60"  hurt_move_frames="" hurt_move_dis=""  desc="双刀士兵+"/>
+	<Node id="3000" status_bar_type=""  head_name=""  type="enemy" max_hp="20" max_mp="0" max_velocity="0" hurt_move_frames="" hurt_move_dis=""  desc="柱子"/>
+	<Node id="4000" status_bar_type="4"  head_name="bossHead"  type="enemy" max_hp="200" max_mp="350" max_velocity="100"  hurt_move_frames="" hurt_move_dis=""  desc="最终boss"/>
+	<Node id="5000" status_bar_type="3"  head_name="monsterHead"  type="enemy" max_hp="180" max_mp="100" max_velocity="200"  hurt_move_frames="" hurt_move_dis=""  desc="怪物"/>
+</roles_config>

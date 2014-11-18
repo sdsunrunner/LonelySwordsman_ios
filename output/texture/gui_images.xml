@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ea54e175aa99135b1c94a8add8317b1a$ -->
+<TextureAtlas imagePath="gui_images.png">
+    <SubTexture name="BossStatusBg" x="769" y="516" width="344" height="86"/>
+    <SubTexture name="animaHead" x="1670" y="295" width="60" height="55"/>
+    <SubTexture name="back" x="1247" y="996" width="210" height="213"/>
+    <SubTexture name="baseHead" x="2017" y="946" width="25" height="66"/>
+    <SubTexture name="baseSoldierIconGrey" x="2" y="1276" width="93" height="144"/>
+    <SubTexture name="basicSoldierIcon" x="1903" y="1370" width="93" height="144"/>
+    <SubTexture name="bestScore" x="465" y="738" width="267" height="56"/>
+    <SubTexture name="bgBuilding" x="2" y="248" width="500" height="171"/>
+    <SubTexture name="bgItem" x="2006" y="1014" width="40" height="180"/>
+    <SubTexture name="bgMask" x="2" y="1527" width="120" height="340"/>
+    <SubTexture name="blackMask" x="1998" y="1385" width="48" height="48"/>
+    <SubTexture name="blockIcon" x="231" y="1193" width="80" height="80"/>
+    <SubTexture name="bossHead" x="467" y="950" width="64" height="77"/>
+    <SubTexture name="bossHpBar" x="504" y="248" width="260" height="15"/>
+    <SubTexture name="bossImage" x="1608" y="546" width="117" height="320"/>
+    <SubTexture name="bossLock" x="1561" y="605" width="45" height="66"/>
+    <SubTexture name="bossMpBar" x="1719" y="1305" width="192" height="15"/>
+    <SubTexture name="buBoss" x="1115" y="709" width="135" height="242"/>
+    <SubTexture name="buyFail" x="1274" y="270" width="394" height="156"/>
+    <SubTexture name="buyReborn" x="1274" y="60" width="429" height="40"/>
+    <SubTexture name="buySuccess" x="1268" y="522" width="338" height="81"/>
+    <SubTexture name="callMe" x="1719" y="1322" width="186" height="37"/>
+    <SubTexture name="circelMask0001" x="719" y="1034" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0002" x="626" y="984" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0003" x="533" y="984" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0004" x="557" y="890" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0005" x="557" y="796" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0006" x="464" y="856" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0007" x="369" y="1091" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0008" x="235" y="1091" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0009" x="231" y="1276" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0010" x="318" y="921" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0011" x="2" y="740" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0012" x="95" y="740" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0013" x="2" y="921" width="91" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0014" x="1459" y="1088" width="89" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0015" x="1459" y="1182" width="85" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0016" x="650" y="796" width="81" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0017" x="1925" y="1276" width="77" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0018" x="650" y="890" width="73" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0019" x="1659" y="452" width="67" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0020" x="467" y="1029" width="59" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0021" x="1553" y="673" width="53" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0022" x="1066" y="604" width="47" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0023" x="1684" y="201" width="47" height="92" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0024" x="1998" y="1435" width="47" height="90" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0025" x="2" y="1436" width="47" height="88" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0026" x="51" y="1436" width="47" height="84" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0027" x="418" y="1002" width="47" height="78" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0028" x="369" y="1015" width="47" height="74" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0029" x="269" y="973" width="47" height="72" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0030" x="51" y="1207" width="47" height="66" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0031" x="2" y="1211" width="47" height="62" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0032" x="461" y="796" width="47" height="58" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0033" x="205" y="921" width="47" height="52" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0034" x="133" y="1042" width="47" height="46" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0035" x="1551" y="819" width="47" height="46" frameX="0" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0036" x="1670" y="352" width="59" height="98" frameX="-2" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0037" x="956" y="853" width="43" height="46" frameX="-3" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0038" x="2004" y="1337" width="39" height="46" frameX="-7" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0039" x="465" y="421" width="37" height="46" frameX="-9" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0040" x="734" y="543" width="33" height="46" frameX="-13" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0041" x="739" y="354" width="29" height="46" frameX="-17" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0042" x="182" y="1042" width="25" height="46" frameX="-21" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0043" x="1684" y="102" width="19" height="46" frameX="-27" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0044" x="1684" y="150" width="13" height="46" frameX="-33" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="circelMask0045" x="759" y="265" width="7" height="46" frameX="-39" frameY="0" frameWidth="91" frameHeight="98"/>
+    <SubTexture name="closeBtn" x="133" y="1091" width="100" height="100"/>
+    <SubTexture name="continue" x="764" y="604" width="300" height="50"/>
+    <SubTexture name="countBg" x="313" y="1211" width="58" height="58"/>
+    <SubTexture name="dogIcon" x="209" y="740" width="120" height="41"/>
+    <SubTexture name="dogIconGrey" x="209" y="1047" width="120" height="41"/>
+    <SubTexture name="duanshu" x="1728" y="485" width="318" height="459"/>
+    <SubTexture name="enemyHpBg" x="1719" y="1361" width="182" height="73"/>
+    <SubTexture name="enemyHpbar" x="1000" y="1028" width="107" height="17"/>
+    <SubTexture name="enemyStatusBg2" x="504" y="354" width="233" height="73"/>
+    <SubTexture name="enemyStatusBg3" x="1115" y="634" width="141" height="73"/>
+    <SubTexture name="fail" x="1113" y="953" width="132" height="136"/>
+    <SubTexture name="flag0001" x="956" y="901" width="42" height="139"/>
+    <SubTexture name="flag0002" x="956" y="901" width="42" height="139"/>
+    <SubTexture name="flag0003" x="2006" y="1196" width="40" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0004" x="2006" y="1196" width="40" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0005" x="331" y="1047" width="36" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0006" x="331" y="1047" width="36" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0007" x="734" y="591" width="28" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0008" x="734" y="591" width="28" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0009" x="1705" y="60" width="26" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0010" x="1705" y="60" width="26" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0011" x="739" y="402" width="28" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0012" x="739" y="402" width="28" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0013" x="167" y="834" width="36" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="flag0014" x="167" y="834" width="36" height="139" frameX="0" frameY="0" frameWidth="42" frameHeight="139"/>
+    <SubTexture name="gameName" x="1733" y="78" width="313" height="75" frameX="-3" frameY="-6" frameWidth="337" frameHeight="99"/>
+    <SubTexture name="giveScore" x="1259" y="605" width="300" height="50"/>
+    <SubTexture name="guaiwuImage" x="1258" y="674" width="291" height="320"/>
+    <SubTexture name="gushi" x="504" y="429" width="151" height="38"/>
+    <SubTexture name="heavyAttackBtn" x="85" y="834" width="80" height="80"/>
+    <SubTexture name="heroPh" x="734" y="790" width="220" height="242"/>
+    <SubTexture name="hpValueBar" x="1258" y="657" width="293" height="15"/>
+    <SubTexture name="hpremovier" x="254" y="921" width="50" height="50"/>
+    <SubTexture name="killCount" x="1274" y="2" width="458" height="56"/>
+    <SubTexture name="knob" x="331" y="740" width="128" height="128"/>
+    <SubTexture name="levShare" x="1734" y="2" width="300" height="74"/>
+    <SubTexture name="lifeBg" x="1274" y="428" width="383" height="92"/>
+    <SubTexture name="life_value_bar" x="1719" y="1293" width="200" height="10"/>
+    <SubTexture name="life_value_bar_bg" x="1719" y="1276" width="204" height="15"/>
+    <SubTexture name="longHpBar" x="97" y="1402" width="158" height="17"/>
+    <SubTexture name="mainAttack" x="1459" y="996" width="90" height="90"/>
+    <SubTexture name="menu" x="1731" y="433" width="300" height="50"/>
+    <SubTexture name="menuBg" x="772" y="2" width="500" height="512"/>
+    <SubTexture name="menuLogo" x="465" y="469" width="267" height="267"/>
+    <SubTexture name="monsterHead" x="100" y="1436" width="64" height="83"/>
+    <SubTexture name="more" x="1115" y="555" width="151" height="37"/>
+    <SubTexture name="movesBg" x="1724" y="995" width="280" height="279"/>
+    <SubTexture name="mpValueBar" x="504" y="265" width="253" height="15"/>
+    <SubTexture name="mprecover" x="1551" y="767" width="50" height="50"/>
+    <SubTexture name="nextLev" x="1731" y="381" width="300" height="50"/>
+    <SubTexture name="phBg" x="182" y="975" width="85" height="65"/>
+    <SubTexture name="pingfen" x="657" y="429" width="70" height="33"/>
+    <SubTexture name="playBtn" x="1724" y="946" width="291" height="47"/>
+    <SubTexture name="rebornIcon" x="95" y="975" width="85" height="65"/>
+    <SubTexture name="resetLev" x="1732" y="329" width="300" height="50"/>
+    <SubTexture name="restLev" x="1733" y="277" width="300" height="50"/>
+    <SubTexture name="score" x="734" y="732" width="267" height="56"/>
+    <SubTexture name="share" x="504" y="282" width="252" height="70" frameX="-6" frameY="0" frameWidth="280" frameHeight="70"/>
+    <SubTexture name="shareToWeiBo" x="1733" y="155" width="300" height="68"/>
+    <SubTexture name="share_to_weixin_btn" x="764" y="656" width="295" height="74"/>
+    <SubTexture name="shengcun" x="1115" y="516" width="151" height="37"/>
+    <SubTexture name="shortHpValue" x="97" y="1382" width="66" height="17"/>
+    <SubTexture name="shuangdaoHead" x="956" y="790" width="45" height="61"/>
+    <SubTexture name="shujian" x="1115" y="594" width="142" height="38"/>
+    <SubTexture name="store" x="1733" y="225" width="300" height="50"/>
+    <SubTexture name="storeBg" x="2" y="2" width="768" height="244"/>
+    <SubTexture name="storeImage1" x="2" y="1869" width="171" height="176"/>
+    <SubTexture name="storeImage2" x="1546" y="1224" width="171" height="176"/>
+    <SubTexture name="storeImage3" x="1551" y="1046" width="171" height="176"/>
+    <SubTexture name="storeImage4" x="1551" y="868" width="171" height="176"/>
+    <SubTexture name="storeNotOpenNote" x="1274" y="102" width="408" height="166"/>
+    <SubTexture name="storeViewAlertBg" x="2" y="421" width="461" height="317"/>
+    <SubTexture name="tallHead" x="1061" y="698" width="52" height="58"/>
+    <SubTexture name="tallSoldierIcon" x="2" y="1042" width="129" height="163"/>
+    <SubTexture name="tallSoldierIconGrey" x="100" y="1211" width="129" height="169"/>
+    <SubTexture name="twoKnifeSoldierIconGrey" x="1001" y="893" width="110" height="133"/>
+    <SubTexture name="twoknivesSoldierIcon" x="1003" y="758" width="110" height="133"/>
+    <SubTexture name="upAttackBtn" x="2" y="834" width="81" height="80" frameX="0" frameY="0" frameWidth="111" frameHeight="80"/>
+    <SubTexture name="win" x="209" y="783" width="114" height="136"/>
+    <SubTexture name="xiaoshu" x="411" y="870" width="51" height="130"/>
+</TextureAtlas>

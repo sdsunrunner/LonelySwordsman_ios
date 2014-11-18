@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="28" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="100" height="28">
+  <data encoding="base64" compression="zlib">
+   eJztlwEKgzAMRbNWvP+RR2GF2QmtWZOfpnkQnKD4k2eQnUR0dsoCvYySuTnPliwLhI/1fXh2gnRkKSd67ha8WMyInjvKieWMaWK+8DEXpJv8eX7hEOxxpfdGIu9IVQ8arLbLBY09qUjuwh0SvWmg5QNFzXHQdUdrtnKev65PdM1d79PqJZHsnlggNcf2d0u7y+U8312owGw3wRzChy2kvyu9esm3uBQW/j+Gk1/CiS3QPrwW9z1D5x4tbg/c/rn3/esEPWfPPjhO0HP27uOpE/Scd/DxxAl6zrv4GHWCnvNOPjwVdzY9wkf48FDc2fQIH+GDW28SjyMH
+  </data>
+ </layer>
+ <objectgroup name="obj" width="100" height="28">
+  <object type="citrus.objects.platformer.nape.Platform" x="2053" y="541">
+   <polygon points="-1221,3 474,2 474,18 -1221,28"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="254" y="212">
+   <polygon points="-1,-213 30,-214 30,257 -2,257"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="411" y="449">
+   <polygon points="-127,0 -124,22 327,25 327,-1"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2977" y="195">
+   <polygon points="0,0 32,0 32,544 0,544"/>
+  </object>
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="386" y="377" width="30" height="70"/>
+  <object name="endFlag" type="game.view.gameScenceView.scenceSensor.ScenceEndSensor" x="2921" y="665" width="50" height="70"/>
+  <object type="citrus.objects.platformer.nape.Platform" x="2295" y="746">
+   <polygon points="420,-9 715,-8 715,13 420,16"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2076" y="559">
+   <polygon points="452,-14 638,179 454,176"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="478" y="557">
+   <polygon points="261,-13 353,-13 261,-107"/>
+  </object>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="1311" y="296" width="107" height="21"/>
+  <object name="rock1" type="game.view.enviEnemy.fallenRock.FallenRock" x="1315" y="277" width="24" height="15"/>
+  <object name="rock2" type="game.view.enviEnemy.fallenRock.FallenRock" x="1392" y="277" width="24" height="15"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="1493" y="264" width="52" height="18"/>
+  <object name="rock3" type="game.view.enviEnemy.fallenRock.FallenRock" x="1507" y="247" width="24" height="15"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="1580" y="293" width="80" height="19"/>
+  <object name="rock4" type="game.view.enviEnemy.fallenRock.FallenRock" x="1594" y="276" width="24" height="15"/>
+  <object name="rock5" type="game.view.enviEnemy.fallenRock.FallenRock" x="1625" y="277" width="24" height="15"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="1728" y="281" width="80" height="19"/>
+  <object name="rock6" type="game.view.enviEnemy.fallenRock.FallenRock" x="1738" y="260" width="24" height="15"/>
+  <object name="rock7" type="game.view.enviEnemy.fallenRock.FallenRock" x="1779" y="261" width="24" height="15"/>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.FallRockScensor" x="1488" y="493" width="19" height="50"/>
+  <object type="game.scenceInterac.fallRockMaker.FallRockRemoveScensor" x="1111" y="544" width="904" height="13"/>
+  <object name="BaseSoldierEnemy1" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="604" y="369" width="21" height="76">
+   <properties>
+    <property name="leftBound" value="480"/>
+    <property name="rightBound" value="630"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

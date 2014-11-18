@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztz7ENAAAIwzAm/j+ZMwrIlrK3VQAAwDV9JD925ceuvv5I75EkKdkAsOwQdQ==
+  </data>
+ </layer>
+ <objectgroup name="platform" width="50" height="30">
+  <object type="citrus.objects.platformer.nape.Platform" x="126" y="478" width="1345" height="191"/>
+  <object type="citrus.objects.platformer.nape.Platform" x="2" y="694" width="1603" height="179"/>
+  <object type="citrus.objects.platformer.nape.Platform" x="4" y="90" width="47" height="605"/>
+  <object type="citrus.objects.platformer.nape.Platform" x="1546" y="86" width="47" height="605"/>
+ </objectgroup>
+ <objectgroup name="obj" width="50" height="30">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="855" y="388" width="47" height="89"/>
+  <object name="fianlBoss" type="game.view.boss.finalBoss.FinalBossView" x="1358" y="401" width="50" height="75"/>
+  <object name="dici" type="game.view.enviEnemy.dici.DiCiEnemy" x="55" y="650" width="70" height="21"/>
+  <object name="dici" type="game.view.enviEnemy.dici.DiCiEnemy" x="1475" y="647" width="66" height="22"/>
+ </objectgroup>
+</map>

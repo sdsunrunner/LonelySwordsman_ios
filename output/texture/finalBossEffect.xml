@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4319f8d852dda34f03786d83222d7fcd$ -->
+<TextureAtlas imagePath="finalBossEffect.png">
+    <SubTexture name="dazhaoReady0001" x="638" y="317" width="97" height="365" frameX="-7" frameY="0" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0002" x="840" y="2" width="97" height="367" frameX="-8" frameY="-1" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0003" x="737" y="317" width="97" height="355" frameX="-9" frameY="-10" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0004" x="424" y="642" width="97" height="339" frameX="-9" frameY="-17" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0005" x="309" y="648" width="97" height="335" frameX="-10" frameY="-13" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0006" x="103" y="969" width="97" height="329" frameX="-10" frameY="-14" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0007" x="739" y="2" width="99" height="313" frameX="-9" frameY="-23" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0008" x="430" y="323" width="101" height="317" frameX="-8" frameY="-21" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0009" x="325" y="2" width="103" height="321" frameX="-6" frameY="-18" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0010" x="2" y="2" width="111" height="315" frameX="0" frameY="-20" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0011" x="535" y="2" width="101" height="323" frameX="-6" frameY="-20" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0012" x="2" y="963" width="99" height="317" frameX="-8" frameY="-29" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0013" x="103" y="650" width="99" height="317" frameX="-8" frameY="-29" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0014" x="208" y="642" width="99" height="317" frameX="-9" frameY="-34" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0015" x="303" y="985" width="97" height="323" frameX="-10" frameY="-32" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0016" x="299" y="1310" width="95" height="327" frameX="-11" frameY="-30" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0017" x="196" y="1665" width="95" height="341" frameX="-12" frameY="-26" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0018" x="2" y="1607" width="95" height="361" frameX="-12" frameY="-12" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0019" x="202" y="1294" width="95" height="367" frameX="-12" frameY="-6" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0020" x="101" y="1300" width="95" height="363" frameX="-11" frameY="-6" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0021" x="99" y="1665" width="95" height="347" frameX="-10" frameY="-13" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0022" x="523" y="682" width="97" height="337" frameX="-8" frameY="-23" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0023" x="204" y="961" width="97" height="331" frameX="-8" frameY="-30" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0024" x="408" y="983" width="97" height="323" frameX="-8" frameY="-33" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0025" x="220" y="325" width="101" height="315" frameX="-5" frameY="-36" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0026" x="430" y="2" width="103" height="319" frameX="-5" frameY="-35" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0027" x="2" y="319" width="103" height="323" frameX="-5" frameY="-35" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0028" x="115" y="2" width="103" height="323" frameX="-5" frameY="-33" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0029" x="107" y="327" width="99" height="321" frameX="-7" frameY="-28" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0030" x="2" y="644" width="99" height="317" frameX="-7" frameY="-26" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0031" x="323" y="325" width="99" height="321" frameX="-6" frameY="-19" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0032" x="2" y="1282" width="97" height="323" frameX="-7" frameY="-18" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0033" x="293" y="1663" width="95" height="335" frameX="-9" frameY="-11" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0034" x="533" y="327" width="97" height="353" frameX="-8" frameY="-2" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0035" x="638" y="317" width="97" height="365" frameX="-7" frameY="0" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0036" x="840" y="2" width="97" height="367" frameX="-8" frameY="-1" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0037" x="737" y="317" width="97" height="355" frameX="-9" frameY="-10" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0038" x="424" y="642" width="97" height="339" frameX="-9" frameY="-17" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0039" x="309" y="648" width="97" height="335" frameX="-10" frameY="-13" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0040" x="220" y="2" width="103" height="321" frameX="-6" frameY="-19" frameWidth="111" frameHeight="373"/>
+    <SubTexture name="dazhaoReady0041" x="638" y="2" width="99" height="313" frameX="-9" frameY="-23" frameWidth="111" frameHeight="373"/>
+</TextureAtlas>

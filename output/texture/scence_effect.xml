@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e05c364079789f18c51dd096e90c064f$ -->
+<TextureAtlas imagePath="scence_effect.png">
+    <SubTexture name="circularexplode" x="2" y="1926" width="36" height="36"/>
+    <SubTexture name="destructibleTerrainPillar" x="2" y="2" width="62" height="378"/>
+    <SubTexture name="expsmoke0001" x="1788" y="238" width="200" height="122" frameX="-13" frameY="-198" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0002" x="1788" y="362" width="190" height="142" frameX="-19" frameY="-178" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0003" x="1750" y="506" width="178" height="172" frameX="-27" frameY="-148" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0004" x="132" y="1838" width="168" height="202" frameX="-32" frameY="-120" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0005" x="1702" y="2" width="168" height="234" frameX="-30" frameY="-89" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0006" x="1612" y="254" width="174" height="234" frameX="-28" frameY="-89" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0007" x="1570" y="520" width="178" height="236" frameX="-27" frameY="-87" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0008" x="302" y="1808" width="184" height="238" frameX="-24" frameY="-85" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0009" x="488" y="1806" width="188" height="240" frameX="-23" frameY="-83" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0010" x="1544" y="798" width="194" height="242" frameX="-20" frameY="-81" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0011" x="1408" y="1092" width="200" height="244" frameX="-18" frameY="-79" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0012" x="1216" y="1392" width="204" height="244" frameX="-16" frameY="-79" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0013" x="1052" y="1692" width="208" height="248" frameX="-15" frameY="-76" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0014" x="1488" y="2" width="212" height="250" frameX="-13" frameY="-74" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0015" x="1394" y="266" width="216" height="252" frameX="-12" frameY="-73" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0016" x="1348" y="542" width="220" height="254" frameX="-10" frameY="-71" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0017" x="1320" y="834" width="222" height="256" frameX="-10" frameY="-69" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0018" x="1180" y="1132" width="226" height="258" frameX="-8" frameY="-68" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0019" x="986" y="1430" width="228" height="260" frameX="-8" frameY="-66" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0020" x="1254" y="2" width="232" height="262" frameX="-6" frameY="-64" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0021" x="1158" y="276" width="234" height="264" frameX="-6" frameY="-63" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0022" x="1110" y="566" width="236" height="266" frameX="-5" frameY="-61" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0023" x="1080" y="862" width="238" height="268" frameX="-4" frameY="-60" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0024" x="938" y="1158" width="240" height="270" frameX="-4" frameY="-58" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0025" x="1010" y="2" width="242" height="272" frameX="-3" frameY="-56" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0026" x="912" y="290" width="244" height="274" frameX="-2" frameY="-55" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0027" x="862" y="584" width="246" height="276" frameX="-1" frameY="-53" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0028" x="830" y="878" width="248" height="278" frameX="0" frameY="-51" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0029" x="802" y="1752" width="248" height="280" frameX="0" frameY="-50" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0030" x="734" y="1468" width="250" height="282" frameX="0" frameY="-48" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0031" x="776" y="1176" width="160" height="282" frameX="-37" frameY="-48" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0032" x="844" y="2" width="164" height="286" frameX="-35" frameY="-45" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0033" x="608" y="1178" width="166" height="288" frameX="-34" frameY="-43" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0034" x="620" y="296" width="168" height="290" frameX="-33" frameY="-42" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0035" x="568" y="594" width="170" height="290" frameX="-32" frameY="-42" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0036" x="394" y="604" width="172" height="292" frameX="-31" frameY="-40" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0037" x="312" y="1214" width="174" height="294" frameX="-30" frameY="-39" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0038" x="198" y="1512" width="176" height="294" frameX="-29" frameY="-39" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0039" x="426" y="2" width="180" height="296" frameX="-26" frameY="-37" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0040" x="172" y="914" width="182" height="298" frameX="-26" frameY="-36" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0041" x="240" y="2" width="184" height="300" frameX="-24" frameY="-34" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0042" x="608" y="1468" width="124" height="286" frameX="-56" frameY="-33" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0043" x="678" y="1756" width="122" height="286" frameX="-57" frameY="-33" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0044" x="706" y="886" width="122" height="288" frameX="-57" frameY="-31" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0045" x="790" y="294" width="120" height="288" frameX="-58" frameY="-30" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0046" x="740" y="588" width="120" height="288" frameX="-58" frameY="-30" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0047" x="586" y="886" width="118" height="290" frameX="-59" frameY="-28" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0048" x="488" y="1192" width="118" height="290" frameX="-59" frameY="-27" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0049" x="724" y="2" width="118" height="290" frameX="-59" frameY="-27" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0050" x="490" y="1484" width="116" height="290" frameX="-60" frameY="-26" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0051" x="502" y="300" width="116" height="292" frameX="-60" frameY="-24" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0052" x="470" y="898" width="114" height="292" frameX="-61" frameY="-24" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0053" x="608" y="2" width="114" height="292" frameX="-61" frameY="-23" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0054" x="356" y="906" width="112" height="294" frameX="-62" frameY="-21" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0055" x="376" y="1510" width="112" height="294" frameX="-62" frameY="-21" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0056" x="198" y="1214" width="112" height="296" frameX="-62" frameY="-20" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0057" x="390" y="304" width="110" height="298" frameX="-63" frameY="-18" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0058" x="282" y="606" width="110" height="298" frameX="-63" frameY="-18" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0059" x="280" y="304" width="108" height="300" frameX="-64" frameY="-16" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0060" x="172" y="612" width="108" height="300" frameX="-64" frameY="-16" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0061" x="172" y="308" width="106" height="302" frameX="-65" frameY="-14" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0062" x="66" y="2" width="106" height="304" frameX="-65" frameY="-12" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0063" x="66" y="614" width="104" height="304" frameX="-66" frameY="-12" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0064" x="66" y="308" width="104" height="304" frameX="-66" frameY="-12" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0065" x="2" y="1002" width="102" height="306" frameX="-67" frameY="-9" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0066" x="174" y="2" width="64" height="302" frameX="-96" frameY="-9" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0067" x="132" y="1532" width="64" height="304" frameX="-96" frameY="-7" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0068" x="132" y="1226" width="64" height="304" frameX="-96" frameY="-6" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0069" x="106" y="920" width="64" height="304" frameX="-96" frameY="-6" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0070" x="2" y="1618" width="64" height="306" frameX="-96" frameY="-4" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0071" x="2" y="1310" width="64" height="306" frameX="-96" frameY="-4" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0072" x="68" y="1618" width="62" height="306" frameX="-97" frameY="-3" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0073" x="2" y="692" width="62" height="308" frameX="-97" frameY="-1" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0074" x="68" y="1310" width="62" height="306" frameX="-97" frameY="-2" frameWidth="250" frameHeight="334"/>
+    <SubTexture name="expsmoke0075" x="2" y="382" width="62" height="308" frameX="-97" frameY="0" frameWidth="250" frameHeight="334"/>
+</TextureAtlas>

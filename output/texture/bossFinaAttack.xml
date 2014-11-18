@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6e17a11b709d709e6eed7b3878d49ba7$ -->
+<TextureAtlas imagePath="bossFinaAttack.png">
+    <SubTexture name="dazhaoEffect0001" x="1814" y="2" width="71" height="150" frameX="-349" frameY="-148" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0002" x="1708" y="882" width="299" height="174" frameX="-142" frameY="-120" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0003" x="1249" y="1198" width="405" height="288" frameX="-60" frameY="-51" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0004" x="1656" y="1458" width="389" height="172" frameX="-67" frameY="-142" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0005" x="355" y="1362" width="387" height="216" frameX="-68" frameY="-124" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0006" x="425" y="496" width="421" height="320" frameX="-52" frameY="-30" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0007" x="437" y="224" width="429" height="270" frameX="-14" frameY="-78" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0008" x="2" y="1270" width="351" height="352" frameX="-98" frameY="-50" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0009" x="848" y="614" width="415" height="356" frameX="-47" frameY="-3" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0010" x="840" y="972" width="407" height="296" frameX="-50" frameY="-70" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0011" x="471" y="2" width="467" height="220" frameX="0" frameY="-123" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0012" x="868" y="292" width="421" height="320" frameX="-52" frameY="-31" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0013" x="1377" y="2" width="435" height="286" frameX="-36" frameY="-53" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0014" x="1377" y="290" width="433" height="250" frameX="-32" frameY="-86" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0015" x="744" y="1490" width="353" height="224" frameX="-78" frameY="-114" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0016" x="1814" y="2" width="71" height="150" frameX="-349" frameY="-148" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0017" x="1708" y="706" width="299" height="174" frameX="-142" frameY="-117" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0018" x="355" y="1074" width="405" height="286" frameX="-60" frameY="-49" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0019" x="1656" y="1284" width="389" height="172" frameX="-67" frameY="-129" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0020" x="762" y="1270" width="387" height="218" frameX="-68" frameY="-103" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0021" x="2" y="474" width="421" height="320" frameX="-52" frameY="-16" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0022" x="437" y="224" width="429" height="270" frameX="-14" frameY="-65" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0023" x="2" y="1632" width="351" height="352" frameX="-98" frameY="-34" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0024" x="1291" y="542" width="415" height="356" frameX="-47" frameY="0" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0025" x="1265" y="900" width="407" height="296" frameX="-50" frameY="-56" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0026" x="2" y="2" width="467" height="220" frameX="0" frameY="-106" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0027" x="2" y="474" width="421" height="320" frameX="-52" frameY="-16" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0028" x="940" y="2" width="435" height="288" frameX="-36" frameY="-34" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0029" x="2" y="224" width="433" height="248" frameX="-32" frameY="-68" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0030" x="1674" y="1058" width="353" height="224" frameX="-78" frameY="-95" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0031" x="1814" y="2" width="71" height="150" frameX="-349" frameY="-148" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0032" x="1708" y="706" width="299" height="174" frameX="-142" frameY="-117" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0033" x="355" y="1074" width="405" height="286" frameX="-60" frameY="-49" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0034" x="1656" y="1284" width="389" height="172" frameX="-67" frameY="-129" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0035" x="762" y="1270" width="387" height="218" frameX="-68" frameY="-103" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0036" x="2" y="474" width="421" height="320" frameX="-52" frameY="-16" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0037" x="437" y="224" width="429" height="270" frameX="-14" frameY="-65" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0038" x="2" y="1632" width="351" height="352" frameX="-98" frameY="-34" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0039" x="1291" y="542" width="415" height="356" frameX="-47" frameY="0" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0040" x="1265" y="900" width="407" height="296" frameX="-50" frameY="-56" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0041" x="2" y="2" width="467" height="220" frameX="0" frameY="-106" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0042" x="2" y="474" width="421" height="320" frameX="-52" frameY="-16" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0043" x="940" y="2" width="435" height="288" frameX="-36" frameY="-34" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0044" x="2" y="224" width="433" height="248" frameX="-32" frameY="-68" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0045" x="1674" y="1058" width="353" height="224" frameX="-78" frameY="-95" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0046" x="2" y="796" width="419" height="276" frameX="-5" frameY="-78" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0047" x="2" y="1074" width="343" height="192" frameX="-42" frameY="-89" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0048" x="423" y="818" width="415" height="254" frameX="0" frameY="-96" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0049" x="1151" y="1488" width="383" height="202" frameX="0" frameY="-102" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0050" x="1708" y="542" width="305" height="162" frameX="-29" frameY="-125" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0051" x="2" y="1986" width="295" height="18" frameX="-18" frameY="-200" frameWidth="473" frameHeight="402"/>
+    <SubTexture name="dazhaoEffect0052" x="2" y="2006" width="277" height="14" frameX="-40" frameY="-203" frameWidth="473" frameHeight="402"/>
+</TextureAtlas>

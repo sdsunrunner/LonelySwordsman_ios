@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="148" height="45" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="148" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztmsuuwjAMBcvjsuD/PxixqISuQuK0J7EdZqSzImrdeNoawWPbtkcjAFZaLuET9IBPoASfQInVp6dLdZANi088r8AKPoGSXmfuM4qCtPAMAiX4BErwaSxH5lPr/Dri2KMCGvAJn5TgEz4pwSd8UoJPc3NpNSQ5+IRTSvDJLyuCT/ijBJ/wSQk+revT01CTepY7uye37ftv8LXPauuvB+rKkBIjvbPWpXQq6j12P1Bb9JRQ7LHlOTTLqag+tfB2I4pPyvrOOLX/P9p6ruuJc43A240VfZqVaC698d6TKD7tZJg5e+fpmXjvTTSf3uz3vfd19lz/zl+A+rKlhNKn1nE9U3vH4VJ8nyJ9P8al/D59Yp1/LetKM1BtLsKl9XyKCC7hk4qVXFKDT32s5NKoXkX0yXuffyWjwKffzEii+VRif99YfqtrrfXuZYSMJrJP/2eXmlOWtd69jJAZRPTp2xxc8sS61ruXETKDaD61vlNdDq7N0o8V8L5vsgRsePcpS8CGd5+yBGx49ylLwIZ3n7IEbHj3KUuy8wL2hEae
+  </data>
+ </layer>
+ <objectgroup name="platform" width="148" height="45">
+  <object type="citrus.objects.platformer.nape.Platform" x="160" y="480">
+   <polygon points="0,0 865,2 925,64 -1,65"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1443" y="1059">
+   <polygon points="413,-3 1628,-3 1628,27 413,31"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="2145" y="765">
+   <polygon points="1153,67 925,293 1139,295"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="3142" y="832">
+   <polygon points="157,-1 1176,-2 1182,34 158,33"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1156" y="673">
+   <polygon points="-3,0 155,-1 155,28 -4,29"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="900" y="545">
+   <polygon points="-2,-3 219,1 219,30 -2,30"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1142" y="739">
+   <polygon points="9,-36 41,-35 40,546 10,546"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1267" y="743">
+   <polygon points="12,-40 45,-40 44,542 10,542"/>
+  </object>
+  <object type="game.view.enviEnemy.dici.DiCiEnemy" x="953" y="1251">
+   <polygon points="37,-2 196,-4 195,33 38,33"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="948" y="580">
+   <polygon points="13,-3 42,-3 42,710 13,710"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="4278" y="355">
+   <polygon points="11,348 39,351 41,473 11,473"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="152" y="110">
+   <polygon points="10,172 40,172 39,369 9,369"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="938" y="1292">
+   <polygon points="-2,-3 1013,-6 1013,23 -2,30"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="1847" y="713">
+   <polygon points="8,380 40,380 40,538 10,539"/>
+  </object>
+  <object type="game.view.enviEnemy.dici.DiCiEnemy" x="1341" y="1250">
+   <polygon points="-20,0 524,-2 525,33 -18,34"/>
+  </object>
+  <object type="game.scenceInterac.movingPlatform.LandscapePlatform" x="1377" y="800" width="128" height="32">
+   <properties>
+    <property name="endXPlus" value="100"/>
+   </properties>
+   <polygon points="-2,2 72,1 73,30 -2,30"/>
+  </object>
+  <object type="game.scenceInterac.movingPlatform.LandscapePlatform" x="1611" y="932" width="128" height="32">
+   <properties>
+    <property name="endXPlus" value="-100"/>
+   </properties>
+   <polygon points="-3,8 80,8 80,37 -4,37"/>
+  </object>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.FallRockScensor" x="1955" y="985" width="32" height="32">
+   <polygon points="37,8 67,9 67,73 37,72"/>
+  </object>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="1942" y="881" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rock1" type="game.view.enviEnemy.fallenRock.FallenRock" x="1952" y="870" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="1982" y="882" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rock2" type="game.view.enviEnemy.fallenRock.FallenRock" x="1992" y="870" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2035" y="882" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rock3" type="game.view.enviEnemy.fallenRock.FallenRock" x="2044" y="870" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock4" type="game.view.enviEnemy.fallenRock.FallenRock" x="2078" y="870" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rockSys1" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2070" y="882" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object type="game.scenceInterac.fallRockMaker.FallRockRemoveScensor" x="1555" y="1062">
+   <polygon points="410,-3 1340,-7 1340,23 410,27"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.FallRockScensor" x="2435" y="983" width="32" height="32">
+   <polygon points="37,8 67,9 67,73 37,72"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2287" y="900" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2335" y="901" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2433" y="902" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2508" y="900" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2618" y="902" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2756" y="900" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2565" y="889" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rockSys2" type="game.scenceInterac.fallRockMaker.RockPlatform" x="2685" y="890" width="32" height="32">
+   <polygon points="37,8 67,9 67,18 37,18"/>
+  </object>
+  <object name="rock5" type="game.view.enviEnemy.fallenRock.FallenRock" x="2296" y="885" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock6" type="game.view.enviEnemy.fallenRock.FallenRock" x="2340" y="886" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock7" type="game.view.enviEnemy.fallenRock.FallenRock" x="2437" y="889" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock8" type="game.view.enviEnemy.fallenRock.FallenRock" x="2516" y="887" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock9" type="game.view.enviEnemy.fallenRock.FallenRock" x="2573" y="878" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock10" type="game.view.enviEnemy.fallenRock.FallenRock" x="2624" y="888" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock11" type="game.view.enviEnemy.fallenRock.FallenRock" x="2692" y="877" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+  <object name="rock12" type="game.view.enviEnemy.fallenRock.FallenRock" x="2761" y="887" width="16" height="16">
+   <polygon points="37,8 48,7 47,17 37,18"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="obj" width="148" height="45">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="303" y="407" width="48" height="70"/>
+  <object name="endFlag" type="game.view.gameScenceView.scenceSensor.ScenceEndSensor" x="4239" y="760" width="48" height="67"/>
+  <object name="animalSoldierEnemy" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="813" y="449" width="18" height="31">
+   <properties>
+    <property name="leftBound" value="640"/>
+    <property name="rightBound" value="960"/>
+   </properties>
+  </object>
+  <object name="tallSoldier2" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="2112" y="979" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1888"/>
+    <property name="rightBound" value="2240"/>
+   </properties>
+  </object>
+  <object name="twoKnivesSoldierEnemy" type="game.view.enemySoldiers.twoKnives.TwoKnivesSoldierEnemy" x="2697" y="1002" width="19" height="51">
+   <properties>
+    <property name="leftBound" value="2560"/>
+    <property name="rightBound" value="2944"/>
+   </properties>
+  </object>
+  <object name="twoKnivesSoldierEnemy2" type="game.view.enemySoldiers.twoKnives.TwoKnivesSoldierEnemy" x="4059" y="774" width="19" height="51">
+   <properties>
+    <property name="leftBound" value="3850"/>
+    <property name="rightBound" value="4120"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

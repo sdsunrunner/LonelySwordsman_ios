@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="187" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sence_map" tilewidth="32" tileheight="32">
+  <image source="sence_map.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="zuoxiasanjiao"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="shanitem3"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="shanitem2"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="shanitem1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="youxiasanjia"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="kuai"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="youshangsanjiao"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="cao"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="tizi"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="dis" width="187" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJACAQwMCv3H9kF7ASCyF3kA2yZmYdgp+dnr0NfuZ1KrxOhdep8DoVXqfC61R4nQqvU+F1KrxOhdep8DoVXqfC61R4nQqvU+F1KrxOhdep8DoVXqfi5euSJEmSJEmSdNMGSwEo7Q==
+  </data>
+ </layer>
+ <objectgroup name="platform" width="187" height="30">
+  <object type="citrus.objects.platformer.nape.Platform" x="800" y="736">
+   <polygon points="-611,-1 4801,0 4801,101 -613,76"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="159" y="2">
+   <polygon points="0,0 32,0 32,736 0,736"/>
+  </object>
+  <object type="citrus.objects.platformer.nape.Platform" x="5568" y="-3">
+   <polygon points="0,0 32,0 32,736 0,736"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="obj" width="187" height="30">
+  <object name="swordsman" type="game.view.gameHeroView.SwordsmanView" x="467" y="665" width="48" height="70"/>
+  <object name="endFlag" type="game.view.gameScenceView.scenceSensor.ScenceEndSensor" x="5513" y="666" width="48" height="67"/>
+  <object name="baseSoldier1" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="1600" y="658" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1280"/>
+    <property name="rightBound" value="1660"/>
+   </properties>
+  </object>
+  <object name="baseSoldier2" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="2176" y="662" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="1660"/>
+    <property name="rightBound" value="2200"/>
+   </properties>
+  </object>
+  <object name="tallSoldier1" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="3520" y="661" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="3290"/>
+    <property name="rightBound" value="3840"/>
+   </properties>
+  </object>
+  <object name="tallSoldier3" type="game.view.enemySoldiers.tall.TallSoldierEnemy" x="2944" y="663" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="2230"/>
+    <property name="rightBound" value="3170"/>
+   </properties>
+  </object>
+  <object name="animallSoldier1" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="1213" y="710" width="16" height="26">
+   <properties>
+    <property name="leftBound" value="900"/>
+    <property name="rightBound" value="1200"/>
+   </properties>
+  </object>
+  <object name="animallSoldier2" type="game.view.enemySoldiers.animals.AnimalSoldierEnemy" x="4105" y="707" width="17" height="28">
+   <properties>
+    <property name="leftBound" value="3850"/>
+    <property name="rightBound" value="4320"/>
+   </properties>
+  </object>
+  <object name="baseSoldier5" type="game.view.enemySoldiers.basis.BaseSoldierEnemy" x="4964" y="666" width="19" height="74">
+   <properties>
+    <property name="leftBound" value="4330"/>
+    <property name="rightBound" value="5120"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

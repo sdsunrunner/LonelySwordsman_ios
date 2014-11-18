@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d55a8fe31dc834e979d317c2efc8dca1$ -->
+<TextureAtlas imagePath="map_items.png">
+    <SubTexture name="BranchTop1" x="438" y="819" width="309" height="174" frameX="0" frameY="0" frameWidth="309" frameHeight="180"/>
+    <SubTexture name="MiddleTreeD" x="331" y="819" width="105" height="193"/>
+    <SubTexture name="MiddleTreeE" x="208" y="495" width="38" height="102"/>
+    <SubTexture name="bgpillar" x="161" y="2" width="26" height="522"/>
+    <SubTexture name="dashu" x="2" y="2" width="157" height="600"/>
+    <SubTexture name="dici" x="248" y="495" width="168" height="98" frameX="-2" frameY="-4" frameWidth="172" frameHeight="102"/>
+    <SubTexture name="farpillar" x="189" y="2" width="17" height="515"/>
+    <SubTexture name="hengci" x="102" y="935" width="64" height="32"/>
+    <SubTexture name="huashu" x="2" y="604" width="233" height="329"/>
+    <SubTexture name="meihua" x="460" y="589" width="176" height="150" frameX="0" frameY="0" frameWidth="180" frameHeight="150"/>
+    <SubTexture name="rock1" x="43" y="1001" width="18" height="14"/>
+    <SubTexture name="rock2" x="23" y="1001" width="18" height="16"/>
+    <SubTexture name="shumu" x="208" y="2" width="150" height="255"/>
+    <SubTexture name="shumu2" x="237" y="819" width="92" height="200"/>
+    <SubTexture name="shumu3" x="237" y="599" width="221" height="218"/>
+    <SubTexture name="shumuDaiye" x="208" y="259" width="148" height="234" frameX="-2" frameY="0" frameWidth="150" frameHeight="234"/>
+    <SubTexture name="shuzhi1" x="516" y="2" width="64" height="128"/>
+    <SubTexture name="shuzhi2" x="358" y="259" width="82" height="166"/>
+    <SubTexture name="shuzhi3" x="68" y="935" width="32" height="64"/>
+    <SubTexture name="shuzhi5" x="2" y="935" width="64" height="64"/>
+    <SubTexture name="smallRock" x="2" y="1001" width="19" height="16"/>
+    <SubTexture name="xiaoshu" x="582" y="2" width="52" height="131"/>
+    <SubTexture name="xiaoshu1" x="409" y="2" width="52" height="131" frameX="0" frameY="-2" frameWidth="52" frameHeight="133"/>
+    <SubTexture name="xiaoshu2" x="418" y="427" width="96" height="160"/>
+    <SubTexture name="xiaoshu3" x="360" y="2" width="47" height="137"/>
+    <SubTexture name="xiaoshu5" x="638" y="2" width="64" height="128"/>
+    <SubTexture name="xieshu" x="749" y="2" width="128" height="128"/>
+</TextureAtlas>
